@@ -1,0 +1,13 @@
+{
+  "name": "vitreon/app",
+  "description": "Vitreon PHP application",
+  "type": "project",
+  "require": {
+    "phpmailer/phpmailer": "^6.10"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}

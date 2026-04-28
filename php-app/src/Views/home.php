@@ -110,7 +110,7 @@
     <div class="mt-6 grid gap-5 lg:grid-cols-3">
         <?php foreach ($venues as $venue): ?>
             <article class="venue-card" data-event-type="<?= htmlspecialchars($venue['eventType'], ENT_QUOTES, 'UTF-8') ?>">
-                <img class="venue-card__image" src="<?= htmlspecialchars((string) $venue['cardImage'], ENT_QUOTES, 'UTF-8') ?>" alt="<?= htmlspecialchars($venue['name'], ENT_QUOTES, 'UTF-8') ?>">
+                <img class="venue-card__image" src="<?= htmlspecialchars((string) $venue['cardImage'], ENT_QUOTES, 'UTF-8') ?>" alt="<?= htmlspecialchars($venue['name'], ENT_QUOTES, 'UTF-8') ?>" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='<?= htmlspecialchars($url('assets/venue-default.svg'), ENT_QUOTES, 'UTF-8') ?>';">
                 <div class="venue-card__top">
                     <span class="badge-chip"><?= htmlspecialchars($venue['neighborhood'], ENT_QUOTES, 'UTF-8') ?></span>
                     <span class="text-sm text-plum/65"><?= htmlspecialchars($venue['eventType'], ENT_QUOTES, 'UTF-8') ?></span>

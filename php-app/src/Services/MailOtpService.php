@@ -8,10 +8,6 @@ use App\Core\Config;
 use PHPMailer\PHPMailer\Exception;
 use PHPMailer\PHPMailer\PHPMailer;
 
-require_once 'C:/xampp/htdocs/ems/vendor/phpmailer/Exception.php';
-require_once 'C:/xampp/htdocs/ems/vendor/phpmailer/PHPMailer.php';
-require_once 'C:/xampp/htdocs/ems/vendor/phpmailer/SMTP.php';
-
 final class MailOtpService
 {
     public function sendOtp(string $recipientEmail, string $otpCode): array
@@ -29,6 +25,13 @@ final class MailOtpService
             return [
                 'sent' => false,
                 'message' => 'Mail sender is not configured. Add MAIL_FROM_EMAIL to enable PHPMailer OTP delivery.',
+            ];
+        }
+
+        if (!$this->loadMailerLibrary()) {
+            return [
+                'sent' => false,
+                'message' => 'PHPMailer is not installed. Run Composer in ' . dirname(__DIR__, 2) . ' to add the mail dependency before using email OTP delivery.',
             ];
         }
 
@@ -84,5 +87,29 @@ final class MailOtpService
                 'message' => 'PHPMailer could not send the OTP: ' . $exception->getMessage(),
             ];
         }
+    }
+
+    private function loadMailerLibrary(): bool
+    {
+        if (class_exists(PHPMailer::class) && class_exists(Exception::class)) {
+            return true;
+        }
+
+        $projectRoot = dirname(__DIR__, 2);
+        $autoloadCandidates = [
+            $projectRoot . '/vendor/autoload.php',
+            dirname($projectRoot) . '/vendor/autoload.php',
+        ];
+
+        foreach ($autoloadCandidates as $autoloadPath) {
+            if (is_file($autoloadPath)) {
+                require_once $autoloadPath;
+                if (class_exists(PHPMailer::class) && class_exists(Exception::class)) {
+                    return true;
+                }
+            }
+        }
+
+        return false;
     }
 }

@@ -15,7 +15,7 @@ declare(strict_types=1);
                     colors: {
                         lavender: 'var(--color-lavender)',
                         plum: 'var(--color-plum)',
-                        ink: 'var(--color-plum)',
+                        ink: 'var(--color-midnight)',
                         mist: 'var(--color-mist)',
                         glass: 'var(--color-glass)'
                     },
@@ -42,7 +42,7 @@ declare(strict_types=1);
     </script>
     <link rel="stylesheet" href="<?= htmlspecialchars($url('styles.css'), ENT_QUOTES, 'UTF-8') ?>">
 </head>
-<body class="min-h-screen bg-[#fbf8ff] text-plum" data-base-path="<?= htmlspecialchars($appBasePath, ENT_QUOTES, 'UTF-8') ?>">
+<body class="min-h-screen bg-white text-plum" data-base-path="<?= htmlspecialchars($appBasePath, ENT_QUOTES, 'UTF-8') ?>">
     <div class="page-shell">
         <div class="page-aurora page-aurora--one"></div>
         <div class="page-aurora page-aurora--two"></div>

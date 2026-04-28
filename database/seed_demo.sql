@@ -173,10 +173,10 @@ VALUES
     (1046, 12, 'https://lh3.googleusercontent.com/gps-cs-s/AHVAweoYX1ZNYzXS9KLFIP7pP8VhZrMbxpfmp0MKwwUk2_Tg6S6V8yr_3Q_5lfkAsqARyjyXrl6qV-g72uNnQlfJpRSBvKxES5wN48nL6mPTPY9YgCR6KVfpuS7t1t-1LKCwQ2rcz0g1wA=s1360-w1360-h1020-rw', 2),
     (1047, 12, 'https://lh3.googleusercontent.com/gps-cs-s/AHVAwepGFbc5UIWP5Q66cwdAj_L_-VbvYW6olEWn4jJDXiVk7UM72ofnNpnTwISdf3tuG5oZUssQHTUgxIVsPPuOlyHpV5CkBwkhFsH2v9xiGxB6hlcUKJO1xooi55CBG0rMj1r-ZSOx=s1360-w1360-h1020-rw', 3),
     (1048, 12, 'https://lh3.googleusercontent.com/gps-cs-s/AHVAwerj87BZYs0Yf9kUDd5io_7_7FGMVFhofAXOPjI_NtGfQuJBsJJOCYeC3Q2K_KU7U4RKx1L-4tF7VCQXDOF0MA2HP8W1OfDvDThDJNnU4TZUp_NzDs7qIawCBdNSkKGey6Wimtbmfi163SlT=s1360-w1360-h1020-rw', 4),
-    (1049, 13, 'https://lh3.googleusercontent.com/p/AF1QipMVYeVr3kpXFV_62gCvXg0iRkYilrZZJpddKqoD=s1360-w1360-h1020-rw', 1),
-    (1050, 13, 'https://lh3.googleusercontent.com/gps-cs-s/AHVAweqhSeJSjgqymphlN3ItEJs3ciu-mwsCqZj3r0dc4OfOntkSnav0-fuyeBVDGbjNfShQ0HSS1IspujW_l5kYIYc3x5pFcRp19A4LyLhlMOlAL9nqcBm_WbGhf8SqkvQodIX5V1mA=s1360-w1360-h1020-rw', 2),
-    (1051, 13, 'https://lh3.googleusercontent.com/gps-cs-s/AHVAwerAIDFZWPtfg3G4tD4_vPuNheYZgSIxIu6mT7L6Bz-gv40tZRguce5WoftCIqm5vLGgiEg19KDvjYm_lRJCURf8x0D5mHZKucEdhIwaoChgrWA_8x2wCCf_gvQoL83jDTK88nwhSQ=s1360-w1360-h1020-rw', 3),
-    (1052, 13, 'https://lh3.googleusercontent.com/p/AF1QipOaiDmA83ScJm4YddK1kUnsWGaIXBZMXuB65EHA=s1360-w1360-h1020-rw', 4),
+    (1049, 13, 'assets/venue-exhibition.svg', 1),
+    (1050, 13, 'assets/gallery-stage.svg', 2),
+    (1051, 13, 'assets/gallery-seating.svg', 3),
+    (1052, 13, 'assets/gallery-lighting.svg', 4),
     (1053, 14, 'https://lh3.googleusercontent.com/gps-cs-s/AHVAweqcMb6RFctgCliFDtafgkhs1OvHzgidlxI5yRp-I1WtE0q-q4h-pJ_qLX1QY-LA355ZuQfaqX5WLylnI6Rvw8HQ8H7gf5AnLTe9oQvbplSmBZ35IM5221ysMRS_IntVTLPLtieOwg=s1360-w1360-h1020-rw', 1),
     (1054, 14, 'https://lh3.googleusercontent.com/gps-cs-s/AHVAweqDWSb3-Gh1nze7gGJYBzjg0VPpHzOgdkNU22oIb0wJc16rwCksP1R_0bR7mDPyUPxa7d292o7XErIX_-BQjlSqIImgPJ9QuVwTm2iy8QxlzUw_3E-ldRJN3GoFFxOOt5bj4Xx9--fOI089=s1360-w1360-h1020-rw', 2),
     (1055, 14, 'https://lh3.googleusercontent.com/gps-cs-s/AHVAweoL67mmU1jXzMs5li31urv-gZmDqUDUaAQFyr3kLeEPn0_LmFwI1oleWOnGjCv2uv78xtJn6HgCvTGb5ETANJe9DIYmWnJzfRyj9IMlZDpyIEReLEVV47jx8BnXh940IuAn00h7nHBGFROk=s1360-w1360-h1020-rw', 3),
@@ -338,5 +338,3 @@ ON DUPLICATE KEY UPDATE
     owner_phone = VALUES(owner_phone),
     paid_at = VALUES(paid_at),
     reviewed_at = VALUES(reviewed_at);
-
-

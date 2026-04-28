@@ -38,7 +38,7 @@ final class VenueCatalogService
             $this->venueRepository->availableSlotsForVenue((int) ($venue['venue_id'] ?? 0))
         );
         $hydrated['reviews'] = $this->hydrateReviews(
-            $this->venueRepository->recentReviewsForVenue((int) ($venue['venue_id'] ?? 0))
+            $this->venueRepository->recentReviewsForVenue((int) ($venue['venue_id'] ?? 0), 6)
         );
         $hydrated['userPosts'] = $this->buildUserPosts($hydrated['name']);
 

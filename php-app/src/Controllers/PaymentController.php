@@ -164,21 +164,20 @@ final class PaymentController extends Controller
         }
 
         $bookingRepository->markManualPaymentSubmitted($bookingReference, $paymentReference);
+        $_SESSION['payment_receipt'] = [
+            'booking_reference' => $bookingReference,
+            'payment_reference' => $paymentReference,
+            'venue_name' => (string) ($venue['name'] ?? 'Venue'),
+            'amount' => (float) ($booking['deposit_amount'] ?? 0),
+            'paid_at' => date('Y-m-d H:i:s'),
+        ];
         (new VenueRepository())->extendHoldForManualReview(
             (int) ($booking['venue_slot_id'] ?? 0),
             (string) ($booking['hold_reference'] ?? ''),
             12
         );
-        $updatedBooking = $bookingRepository->findDetailedByReference($bookingReference);
-
-        $this->renderManualCheckout(
-            $venue,
-            is_array($updatedBooking) ? $updatedBooking : $booking,
-            is_array($bookingPreferences) ? $bookingPreferences : [],
-            [
-                'success' => 'Payment reference submitted. The booking stays on hold while the owner or admin verifies that the confirmation amount was received.',
-            ]
-        );
+        $_SESSION['payment_receipt_message'] = 'Payment reference submitted. Our team will get in touch for the next steps, or you can visit the venue with the receipt of your initial payment.';
+        $this->redirect('/bookings/deposit/success?booking_reference=' . urlencode($bookingReference));
     }
 
     private function renderManualCheckout(array $venue, array $booking, array $bookingPreferences, array $messages = []): void
@@ -297,11 +296,16 @@ final class PaymentController extends Controller
 
         $booking = $bookingReference !== '' ? $bookingRepository->findByReference($bookingReference) : null;
         $bookingPreferences = $_SESSION['booking_preferences'][$bookingReference] ?? [];
+        $receipt = $_SESSION['payment_receipt'] ?? null;
+        $flashMessage = (string) ($_SESSION['payment_receipt_message'] ?? '');
+        unset($_SESSION['payment_receipt_message']);
 
         $this->render('deposit-success', [
             'title' => 'Deposit Confirmed | PuneEventHub',
             'booking' => $booking,
             'bookingPreferences' => is_array($bookingPreferences) ? $bookingPreferences : [],
+            'receipt' => is_array($receipt) ? $receipt : null,
+            'flashMessage' => $flashMessage,
         ]);
     }
 }

@@ -1,0 +1,990 @@
+{"kind":"deck","id":"ems2-major-presentation","slideCount":17,"slideSize":{"width":1280,"height":720}}
+{"kind":"slide","slide":1,"id":"6al0ri"}
+{"kind":"slide","slide":2,"id":"of007z"}
+{"kind":"slide","slide":3,"id":"jeul8g"}
+{"kind":"slide","slide":4,"id":"y29nam"}
+{"kind":"slide","slide":5,"id":"9s4lbk"}
+{"kind":"slide","slide":6,"id":"cuiztv"}
+{"kind":"slide","slide":7,"id":"da8hlw"}
+{"kind":"slide","slide":8,"id":"nkq41p"}
+{"kind":"slide","slide":9,"id":"agxfyb"}
+{"kind":"slide","slide":10,"id":"vaj8fc"}
+{"kind":"slide","slide":11,"id":"r57kfu"}
+{"kind":"slide","slide":12,"id":"7g805v"}
+{"kind":"slide","slide":13,"id":"hpl046"}
+{"kind":"slide","slide":14,"id":"am786j"}
+{"kind":"slide","slide":15,"id":"46uvu2"}
+{"kind":"slide","slide":16,"id":"nk1jn6"}
+{"kind":"slide","slide":17,"id":"b29hgh"}
+{"kind":"shape","slide":1,"id":"2","role":"background","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":1,"id":"3","role":"hero rail","shapeType":"rect","bbox":[852,0,428,720]}
+{"kind":"shape","slide":1,"id":"4","role":"hero divider","shapeType":"rect","bbox":[824,0,14,720]}
+{"kind":"image","slide":1,"id":"5","role":"logo","path":"C:\\xampp\\htdocs\\EMS2\\php-app\\public\\assets\\puneeventhub-logo.jpg","bbox":[904,78,212,212]}
+{"kind":"shape","slide":1,"id":"6","role":"badge","shapeType":"roundRect","bbox":[74,88,194,34]}
+{"kind":"shape","slide":1,"id":"7","role":"badge text","shapeType":"rect","bbox":[102,97,138,16]}
+{"kind":"textbox","slide":1,"id":"7","role":"badge text","text":"MAJOR PROJECT PPT","textChars":17,"textLines":1,"bbox":[102,97,138,16]}
+{"kind":"shape","slide":1,"id":"8","role":"cover short title","shapeType":"rect","bbox":[74,158,320,56]}
+{"kind":"textbox","slide":1,"id":"8","role":"cover short title","text":"EMS2","textChars":4,"textLines":1,"bbox":[74,158,320,56]}
+{"kind":"shape","slide":1,"id":"9","role":"cover title","shapeType":"rect","bbox":[74,220,640,68]}
+{"kind":"textbox","slide":1,"id":"9","role":"cover title","text":"Event and Venue Management System","textChars":33,"textLines":1,"bbox":[74,220,640,68]}
+{"kind":"shape","slide":1,"id":"10","role":"cover subtitle","shapeType":"rect","bbox":[74,314,622,88]}
+{"kind":"textbox","slide":1,"id":"10","role":"cover subtitle","text":"A web-based platform for venue discovery, OTP authentication, booking workflow management, role-based dashboards, and future-ready integration support.","textChars":151,"textLines":1,"bbox":[74,314,622,88]}
+{"kind":"shape","slide":1,"id":"11","role":"Slides panel","shapeType":"roundRect","bbox":[74,462,190,132]}
+{"kind":"shape","slide":1,"id":"12","role":"Slides accent","shapeType":"rect","bbox":[74,462,8,132]}
+{"kind":"shape","slide":1,"id":"13","role":"metric value","shapeType":"rect","bbox":[96,480,146,36]}
+{"kind":"textbox","slide":1,"id":"13","role":"metric value","text":"17","textChars":2,"textLines":1,"bbox":[96,480,146,36]}
+{"kind":"shape","slide":1,"id":"14","role":"metric label","shapeType":"rect","bbox":[96,524,146,20]}
+{"kind":"textbox","slide":1,"id":"14","role":"metric label","text":"Slides","textChars":6,"textLines":1,"bbox":[96,524,146,20]}
+{"kind":"shape","slide":1,"id":"15","role":"metric note","shapeType":"rect","bbox":[96,556,146,30]}
+{"kind":"textbox","slide":1,"id":"15","role":"metric note","text":"Detailed academic presentation","textChars":30,"textLines":1,"bbox":[96,556,146,30]}
+{"kind":"shape","slide":1,"id":"16","role":"User roles panel","shapeType":"roundRect","bbox":[286,462,190,132]}
+{"kind":"shape","slide":1,"id":"17","role":"User roles accent","shapeType":"rect","bbox":[286,462,8,132]}
+{"kind":"shape","slide":1,"id":"18","role":"metric value","shapeType":"rect","bbox":[308,480,146,36]}
+{"kind":"textbox","slide":1,"id":"18","role":"metric value","text":"3","textChars":1,"textLines":1,"bbox":[308,480,146,36]}
+{"kind":"shape","slide":1,"id":"19","role":"metric label","shapeType":"rect","bbox":[308,524,146,20]}
+{"kind":"textbox","slide":1,"id":"19","role":"metric label","text":"User roles","textChars":10,"textLines":1,"bbox":[308,524,146,20]}
+{"kind":"shape","slide":1,"id":"20","role":"metric note","shapeType":"rect","bbox":[308,556,146,30]}
+{"kind":"textbox","slide":1,"id":"20","role":"metric note","text":"Customer, Owner, Administrator","textChars":30,"textLines":1,"bbox":[308,556,146,30]}
+{"kind":"shape","slide":1,"id":"21","role":"Core layers panel","shapeType":"roundRect","bbox":[498,462,190,132]}
+{"kind":"shape","slide":1,"id":"22","role":"Core layers accent","shapeType":"rect","bbox":[498,462,8,132]}
+{"kind":"shape","slide":1,"id":"23","role":"metric value","shapeType":"rect","bbox":[520,480,146,36]}
+{"kind":"textbox","slide":1,"id":"23","role":"metric value","text":"4","textChars":1,"textLines":1,"bbox":[520,480,146,36]}
+{"kind":"shape","slide":1,"id":"24","role":"metric label","shapeType":"rect","bbox":[520,524,146,20]}
+{"kind":"textbox","slide":1,"id":"24","role":"metric label","text":"Core layers","textChars":11,"textLines":1,"bbox":[520,524,146,20]}
+{"kind":"shape","slide":1,"id":"25","role":"metric note","shapeType":"rect","bbox":[520,556,146,30]}
+{"kind":"textbox","slide":1,"id":"25","role":"metric note","text":"PHP, MySQL, Java, Python","textChars":24,"textLines":1,"bbox":[520,556,146,30]}
+{"kind":"shape","slide":1,"id":"26","role":"Presentation flow panel","shapeType":"roundRect","bbox":[900,334,280,238]}
+{"kind":"shape","slide":1,"id":"27","role":"Presentation flow accent","shapeType":"rect","bbox":[900,334,8,238]}
+{"kind":"shape","slide":1,"id":"28","role":"card heading","shapeType":"rect","bbox":[924,354,240,22]}
+{"kind":"textbox","slide":1,"id":"28","role":"card heading","text":"Presentation flow","textChars":17,"textLines":1,"bbox":[924,354,240,22]}
+{"kind":"shape","slide":1,"id":"29","role":"card body","shapeType":"rect","bbox":[924,390,234,158]}
+{"kind":"textbox","slide":1,"id":"29","role":"card body","text":"Introduction, existing system, scope, environment, technology, screens, and diagrams are organized in chapter order for major project delivery.","textChars":143,"textLines":1,"bbox":[924,390,234,158]}
+{"kind":"shape","slide":1,"id":"30","role":"footer band","shapeType":"rect","bbox":[0,680,1280,40]}
+{"kind":"shape","slide":1,"id":"31","role":"footer","shapeType":"rect","bbox":[70,693,320,14]}
+{"kind":"textbox","slide":1,"id":"31","role":"footer","text":"EMS2 | Major Project Presentation","textChars":33,"textLines":1,"bbox":[70,693,320,14]}
+{"kind":"shape","slide":2,"id":"2","role":"background","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":2,"id":"3","role":"side rail","shapeType":"rect","bbox":[996,0,284,720]}
+{"kind":"shape","slide":2,"id":"4","role":"side accent","shapeType":"rect","bbox":[968,0,12,720]}
+{"kind":"shape","slide":2,"id":"5","role":"top accent","shapeType":"rect","bbox":[0,0,178,12]}
+{"kind":"shape","slide":2,"id":"6","role":"section label","shapeType":"rect","bbox":[70,38,320,20]}
+{"kind":"textbox","slide":2,"id":"6","role":"section label","text":"INTRODUCTION","textChars":12,"textLines":1,"bbox":[70,38,320,20]}
+{"kind":"shape","slide":2,"id":"7","role":"page label","shapeType":"rect","bbox":[1128,38,80,20]}
+{"kind":"textbox","slide":2,"id":"7","role":"page label","text":"02 / 17","textChars":7,"textLines":1,"bbox":[1128,38,80,20]}
+{"kind":"shape","slide":2,"id":"8","role":"header rule","shapeType":"rect","bbox":[70,66,1140,2]}
+{"kind":"shape","slide":2,"id":"9","role":"footer band","shapeType":"rect","bbox":[0,680,1280,40]}
+{"kind":"shape","slide":2,"id":"10","role":"footer","shapeType":"rect","bbox":[70,693,320,14]}
+{"kind":"textbox","slide":2,"id":"10","role":"footer","text":"EMS2 | Major Project Presentation","textChars":33,"textLines":1,"bbox":[70,693,320,14]}
+{"kind":"shape","slide":2,"id":"11","role":"title","shapeType":"rect","bbox":[70,98,860,78]}
+{"kind":"textbox","slide":2,"id":"11","role":"title","text":"Introduction","textChars":12,"textLines":1,"bbox":[70,98,860,78]}
+{"kind":"shape","slide":2,"id":"12","role":"subtitle","shapeType":"rect","bbox":[70,184,860,52]}
+{"kind":"textbox","slide":2,"id":"12","role":"subtitle","text":"EMS2 digitizes the venue selection and booking process through a centralized web platform.","textChars":90,"textLines":1,"bbox":[70,184,860,52]}
+{"kind":"shape","slide":2,"id":"13","role":"Project overview panel","shapeType":"roundRect","bbox":[70,258,412,312]}
+{"kind":"shape","slide":2,"id":"14","role":"Project overview accent","shapeType":"rect","bbox":[70,258,8,312]}
+{"kind":"shape","slide":2,"id":"15","role":"card heading","shapeType":"rect","bbox":[94,278,372,22]}
+{"kind":"textbox","slide":2,"id":"15","role":"card heading","text":"Project overview","textChars":16,"textLines":1,"bbox":[94,278,372,22]}
+{"kind":"shape","slide":2,"id":"16","role":"card body","shapeType":"rect","bbox":[94,314,366,232]}
+{"kind":"textbox","slide":2,"id":"16","role":"card body","text":"Customers can browse venues, compare price and capacity, authenticate with OTP, and move into a structured booking workflow from a single website.","textChars":146,"textLines":1,"bbox":[94,314,366,232]}
+{"kind":"shape","slide":2,"id":"17","role":"Why it matters panel","shapeType":"roundRect","bbox":[514,258,412,312]}
+{"kind":"shape","slide":2,"id":"18","role":"Why it matters accent","shapeType":"rect","bbox":[514,258,8,312]}
+{"kind":"shape","slide":2,"id":"19","role":"card heading","shapeType":"rect","bbox":[538,278,372,22]}
+{"kind":"textbox","slide":2,"id":"19","role":"card heading","text":"Why it matters","textChars":14,"textLines":1,"bbox":[538,278,372,22]}
+{"kind":"shape","slide":2,"id":"20","role":"card body","shapeType":"rect","bbox":[538,314,366,232]}
+{"kind":"textbox","slide":2,"id":"20","role":"card body","text":"The same platform helps owners manage venues and bookings while administrators supervise users, status, and overall platform activity.","textChars":134,"textLines":1,"bbox":[538,314,366,232]}
+{"kind":"shape","slide":2,"id":"21","role":"intro band","shapeType":"roundRect","bbox":[70,596,856,44]}
+{"kind":"shape","slide":2,"id":"22","role":"intro band text","shapeType":"rect","bbox":[98,608,810,18]}
+{"kind":"textbox","slide":2,"id":"22","role":"intro band text","text":"The project is designed as more than a listing site: it is an integrated event venue management workflow.","textChars":105,"textLines":1,"bbox":[98,608,810,18]}
+{"kind":"shape","slide":3,"id":"2","role":"background","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":3,"id":"3","role":"side rail","shapeType":"rect","bbox":[996,0,284,720]}
+{"kind":"shape","slide":3,"id":"4","role":"side accent","shapeType":"rect","bbox":[968,0,12,720]}
+{"kind":"shape","slide":3,"id":"5","role":"top accent","shapeType":"rect","bbox":[0,0,178,12]}
+{"kind":"shape","slide":3,"id":"6","role":"section label","shapeType":"rect","bbox":[70,38,320,20]}
+{"kind":"textbox","slide":3,"id":"6","role":"section label","text":"EXISTING SYSTEM","textChars":15,"textLines":1,"bbox":[70,38,320,20]}
+{"kind":"shape","slide":3,"id":"7","role":"page label","shapeType":"rect","bbox":[1128,38,80,20]}
+{"kind":"textbox","slide":3,"id":"7","role":"page label","text":"03 / 17","textChars":7,"textLines":1,"bbox":[1128,38,80,20]}
+{"kind":"shape","slide":3,"id":"8","role":"header rule","shapeType":"rect","bbox":[70,66,1140,2]}
+{"kind":"shape","slide":3,"id":"9","role":"footer band","shapeType":"rect","bbox":[0,680,1280,40]}
+{"kind":"shape","slide":3,"id":"10","role":"footer","shapeType":"rect","bbox":[70,693,320,14]}
+{"kind":"textbox","slide":3,"id":"10","role":"footer","text":"EMS2 | Major Project Presentation","textChars":33,"textLines":1,"bbox":[70,693,320,14]}
+{"kind":"shape","slide":3,"id":"11","role":"title","shapeType":"rect","bbox":[70,98,860,78]}
+{"kind":"textbox","slide":3,"id":"11","role":"title","text":"Existing System","textChars":15,"textLines":1,"bbox":[70,98,860,78]}
+{"kind":"shape","slide":3,"id":"12","role":"subtitle","shapeType":"rect","bbox":[70,184,860,52]}
+{"kind":"textbox","slide":3,"id":"12","role":"subtitle","text":"Traditional venue booking often depends on phone calls, direct visits, notebooks, and disconnected records.","textChars":107,"textLines":1,"bbox":[70,184,860,52]}
+{"kind":"shape","slide":3,"id":"13","role":"Manual process panel","shapeType":"roundRect","bbox":[70,258,260,280]}
+{"kind":"shape","slide":3,"id":"14","role":"Manual process accent","shapeType":"rect","bbox":[70,258,8,280]}
+{"kind":"shape","slide":3,"id":"15","role":"card heading","shapeType":"rect","bbox":[94,278,220,22]}
+{"kind":"textbox","slide":3,"id":"15","role":"card heading","text":"Manual process","textChars":14,"textLines":1,"bbox":[94,278,220,22]}
+{"kind":"shape","slide":3,"id":"16","role":"card body","shapeType":"rect","bbox":[94,314,214,200]}
+{"kind":"textbox","slide":3,"id":"16","role":"card body","text":"Customers must contact multiple venue providers separately to compare pricing, category, and date availability.","textChars":111,"textLines":1,"bbox":[94,314,214,200]}
+{"kind":"shape","slide":3,"id":"17","role":"Record issues panel","shapeType":"roundRect","bbox":[354,258,260,280]}
+{"kind":"shape","slide":3,"id":"18","role":"Record issues accent","shapeType":"rect","bbox":[354,258,8,280]}
+{"kind":"shape","slide":3,"id":"19","role":"card heading","shapeType":"rect","bbox":[378,278,220,22]}
+{"kind":"textbox","slide":3,"id":"19","role":"card heading","text":"Record issues","textChars":13,"textLines":1,"bbox":[378,278,220,22]}
+{"kind":"shape","slide":3,"id":"20","role":"card body","shapeType":"rect","bbox":[378,314,214,200]}
+{"kind":"textbox","slide":3,"id":"20","role":"card body","text":"Owners may rely on notebooks or spreadsheets, which makes real-time status visibility weak and hard to coordinate.","textChars":114,"textLines":1,"bbox":[378,314,214,200]}
+{"kind":"shape","slide":3,"id":"21","role":"Operational risk panel","shapeType":"roundRect","bbox":[638,258,260,280]}
+{"kind":"shape","slide":3,"id":"22","role":"Operational risk accent","shapeType":"rect","bbox":[638,258,8,280]}
+{"kind":"shape","slide":3,"id":"23","role":"card heading","shapeType":"rect","bbox":[662,278,220,22]}
+{"kind":"textbox","slide":3,"id":"23","role":"card heading","text":"Operational risk","textChars":16,"textLines":1,"bbox":[662,278,220,22]}
+{"kind":"shape","slide":3,"id":"24","role":"card body","shapeType":"rect","bbox":[662,314,214,200]}
+{"kind":"textbox","slide":3,"id":"24","role":"card body","text":"Since information is fragmented, duplicate promises and booking conflicts can happen when multiple requests arrive together.","textChars":124,"textLines":1,"bbox":[662,314,214,200]}
+{"kind":"shape","slide":3,"id":"25","role":"bullet","shapeType":"ellipse","bbox":[98,574,10,10]}
+{"kind":"shape","slide":3,"id":"26","role":"bullet text","shapeType":"rect","bbox":[122,566,766,28]}
+{"kind":"textbox","slide":3,"id":"26","role":"bullet text","text":"Time-consuming for customers and owners","textChars":39,"textLines":1,"bbox":[122,566,766,28]}
+{"kind":"shape","slide":3,"id":"27","role":"bullet","shapeType":"ellipse","bbox":[98,606,10,10]}
+{"kind":"shape","slide":3,"id":"28","role":"bullet text","shapeType":"rect","bbox":[122,598,766,28]}
+{"kind":"textbox","slide":3,"id":"28","role":"bullet text","text":"No single platform for comparison and progress tracking","textChars":55,"textLines":1,"bbox":[122,598,766,28]}
+{"kind":"shape","slide":3,"id":"29","role":"bullet","shapeType":"ellipse","bbox":[98,638,10,10]}
+{"kind":"shape","slide":3,"id":"30","role":"bullet text","shapeType":"rect","bbox":[122,630,766,28]}
+{"kind":"textbox","slide":3,"id":"30","role":"bullet text","text":"Poor transparency in booking status and review visibility","textChars":57,"textLines":1,"bbox":[122,630,766,28]}
+{"kind":"shape","slide":4,"id":"2","role":"background","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":4,"id":"3","role":"side rail","shapeType":"rect","bbox":[996,0,284,720]}
+{"kind":"shape","slide":4,"id":"4","role":"side accent","shapeType":"rect","bbox":[968,0,12,720]}
+{"kind":"shape","slide":4,"id":"5","role":"top accent","shapeType":"rect","bbox":[0,0,178,12]}
+{"kind":"shape","slide":4,"id":"6","role":"section label","shapeType":"rect","bbox":[70,38,320,20]}
+{"kind":"textbox","slide":4,"id":"6","role":"section label","text":"NEED FOR SYSTEM","textChars":15,"textLines":1,"bbox":[70,38,320,20]}
+{"kind":"shape","slide":4,"id":"7","role":"page label","shapeType":"rect","bbox":[1128,38,80,20]}
+{"kind":"textbox","slide":4,"id":"7","role":"page label","text":"04 / 17","textChars":7,"textLines":1,"bbox":[1128,38,80,20]}
+{"kind":"shape","slide":4,"id":"8","role":"header rule","shapeType":"rect","bbox":[70,66,1140,2]}
+{"kind":"shape","slide":4,"id":"9","role":"footer band","shapeType":"rect","bbox":[0,680,1280,40]}
+{"kind":"shape","slide":4,"id":"10","role":"footer","shapeType":"rect","bbox":[70,693,320,14]}
+{"kind":"textbox","slide":4,"id":"10","role":"footer","text":"EMS2 | Major Project Presentation","textChars":33,"textLines":1,"bbox":[70,693,320,14]}
+{"kind":"shape","slide":4,"id":"11","role":"title","shapeType":"rect","bbox":[70,98,860,78]}
+{"kind":"textbox","slide":4,"id":"11","role":"title","text":"Need for the Proposed System","textChars":28,"textLines":1,"bbox":[70,98,860,78]}
+{"kind":"shape","slide":4,"id":"12","role":"subtitle","shapeType":"rect","bbox":[70,184,860,52]}
+{"kind":"textbox","slide":4,"id":"12","role":"subtitle","text":"A web-based event management platform is needed to replace the fragmented and error-prone manual workflow.","textChars":106,"textLines":1,"bbox":[70,184,860,52]}
+{"kind":"shape","slide":4,"id":"13","role":"Authentication layer panel","shapeType":"roundRect","bbox":[70,256,250,136]}
+{"kind":"shape","slide":4,"id":"14","role":"Authentication layer accent","shapeType":"rect","bbox":[70,256,8,136]}
+{"kind":"shape","slide":4,"id":"15","role":"metric value","shapeType":"rect","bbox":[92,274,206,36]}
+{"kind":"textbox","slide":4,"id":"15","role":"metric value","text":"OTP","textChars":3,"textLines":1,"bbox":[92,274,206,36]}
+{"kind":"shape","slide":4,"id":"16","role":"metric label","shapeType":"rect","bbox":[92,318,206,20]}
+{"kind":"textbox","slide":4,"id":"16","role":"metric label","text":"Authentication layer","textChars":20,"textLines":1,"bbox":[92,318,206,20]}
+{"kind":"shape","slide":4,"id":"17","role":"metric note","shapeType":"rect","bbox":[92,350,206,30]}
+{"kind":"textbox","slide":4,"id":"17","role":"metric note","text":"Users can access booking actions through a controlled login and verification flow.","textChars":82,"textLines":1,"bbox":[92,350,206,30]}
+{"kind":"shape","slide":4,"id":"18","role":"Slot control panel","shapeType":"roundRect","bbox":[346,256,250,136]}
+{"kind":"shape","slide":4,"id":"19","role":"Slot control accent","shapeType":"rect","bbox":[346,256,8,136]}
+{"kind":"shape","slide":4,"id":"20","role":"metric value","shapeType":"rect","bbox":[368,274,206,36]}
+{"kind":"textbox","slide":4,"id":"20","role":"metric value","text":"HOLD","textChars":4,"textLines":1,"bbox":[368,274,206,36]}
+{"kind":"shape","slide":4,"id":"21","role":"metric label","shapeType":"rect","bbox":[368,318,206,20]}
+{"kind":"textbox","slide":4,"id":"21","role":"metric label","text":"Slot control","textChars":12,"textLines":1,"bbox":[368,318,206,20]}
+{"kind":"shape","slide":4,"id":"22","role":"metric note","shapeType":"rect","bbox":[368,350,206,30]}
+{"kind":"textbox","slide":4,"id":"22","role":"metric note","text":"Availability checks and temporary holds reduce overlapping booking requests.","textChars":76,"textLines":1,"bbox":[368,350,206,30]}
+{"kind":"shape","slide":4,"id":"23","role":"Centralized records panel","shapeType":"roundRect","bbox":[622,256,250,136]}
+{"kind":"shape","slide":4,"id":"24","role":"Centralized records accent","shapeType":"rect","bbox":[622,256,8,136]}
+{"kind":"shape","slide":4,"id":"25","role":"metric value","shapeType":"rect","bbox":[644,274,206,36]}
+{"kind":"textbox","slide":4,"id":"25","role":"metric value","text":"DB","textChars":2,"textLines":1,"bbox":[644,274,206,36]}
+{"kind":"shape","slide":4,"id":"26","role":"metric label","shapeType":"rect","bbox":[644,318,206,20]}
+{"kind":"textbox","slide":4,"id":"26","role":"metric label","text":"Centralized records","textChars":19,"textLines":1,"bbox":[644,318,206,20]}
+{"kind":"shape","slide":4,"id":"27","role":"metric note","shapeType":"rect","bbox":[644,350,206,30]}
+{"kind":"textbox","slide":4,"id":"27","role":"metric note","text":"Users, venues, bookings, reviews, and events are stored consistently.","textChars":69,"textLines":1,"bbox":[644,350,206,30]}
+{"kind":"shape","slide":4,"id":"28","role":"need panel","shapeType":"roundRect","bbox":[70,432,802,188]}
+{"kind":"shape","slide":4,"id":"29","role":"need accent","shapeType":"rect","bbox":[70,432,8,188]}
+{"kind":"shape","slide":4,"id":"30","role":"bullet","shapeType":"ellipse","bbox":[98,476,10,10]}
+{"kind":"shape","slide":4,"id":"31","role":"bullet text","shapeType":"rect","bbox":[122,468,732,28]}
+{"kind":"textbox","slide":4,"id":"31","role":"bullet text","text":"Customers need faster venue discovery and better visibility into price, category, and status.","textChars":93,"textLines":1,"bbox":[122,468,732,28]}
+{"kind":"shape","slide":4,"id":"32","role":"bullet","shapeType":"ellipse","bbox":[98,510,10,10]}
+{"kind":"shape","slide":4,"id":"33","role":"bullet text","shapeType":"rect","bbox":[122,502,732,28]}
+{"kind":"textbox","slide":4,"id":"33","role":"bullet text","text":"Owners need organized tools for listing management, slot updates, and booking review.","textChars":85,"textLines":1,"bbox":[122,502,732,28]}
+{"kind":"shape","slide":4,"id":"34","role":"bullet","shapeType":"ellipse","bbox":[98,544,10,10]}
+{"kind":"shape","slide":4,"id":"35","role":"bullet text","shapeType":"rect","bbox":[122,536,732,28]}
+{"kind":"textbox","slide":4,"id":"35","role":"bullet text","text":"Administrators need role-based monitoring, user control, and system-wide operational oversight.","textChars":95,"textLines":1,"bbox":[122,536,732,28]}
+{"kind":"shape","slide":4,"id":"36","role":"bullet","shapeType":"ellipse","bbox":[98,578,10,10]}
+{"kind":"shape","slide":4,"id":"37","role":"bullet text","shapeType":"rect","bbox":[122,570,732,28]}
+{"kind":"textbox","slide":4,"id":"37","role":"bullet text","text":"The project should remain extensible for AI recommendations and stronger payment automation.","textChars":92,"textLines":1,"bbox":[122,570,732,28]}
+{"kind":"shape","slide":5,"id":"2","role":"background","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":5,"id":"3","role":"side rail","shapeType":"rect","bbox":[996,0,284,720]}
+{"kind":"shape","slide":5,"id":"4","role":"side accent","shapeType":"rect","bbox":[968,0,12,720]}
+{"kind":"shape","slide":5,"id":"5","role":"top accent","shapeType":"rect","bbox":[0,0,178,12]}
+{"kind":"shape","slide":5,"id":"6","role":"section label","shapeType":"rect","bbox":[70,38,320,20]}
+{"kind":"textbox","slide":5,"id":"6","role":"section label","text":"SCOPE OF WORK","textChars":13,"textLines":1,"bbox":[70,38,320,20]}
+{"kind":"shape","slide":5,"id":"7","role":"page label","shapeType":"rect","bbox":[1128,38,80,20]}
+{"kind":"textbox","slide":5,"id":"7","role":"page label","text":"05 / 17","textChars":7,"textLines":1,"bbox":[1128,38,80,20]}
+{"kind":"shape","slide":5,"id":"8","role":"header rule","shapeType":"rect","bbox":[70,66,1140,2]}
+{"kind":"shape","slide":5,"id":"9","role":"footer band","shapeType":"rect","bbox":[0,680,1280,40]}
+{"kind":"shape","slide":5,"id":"10","role":"footer","shapeType":"rect","bbox":[70,693,320,14]}
+{"kind":"textbox","slide":5,"id":"10","role":"footer","text":"EMS2 | Major Project Presentation","textChars":33,"textLines":1,"bbox":[70,693,320,14]}
+{"kind":"shape","slide":5,"id":"11","role":"title","shapeType":"rect","bbox":[70,98,860,78]}
+{"kind":"textbox","slide":5,"id":"11","role":"title","text":"Scope of Work","textChars":13,"textLines":1,"bbox":[70,98,860,78]}
+{"kind":"shape","slide":5,"id":"12","role":"subtitle","shapeType":"rect","bbox":[70,184,860,52]}
+{"kind":"textbox","slide":5,"id":"12","role":"subtitle","text":"The project scope covers functional platform behavior, technical architecture, and academic software engineering deliverables.","textChars":126,"textLines":1,"bbox":[70,184,860,52]}
+{"kind":"shape","slide":5,"id":"13","role":"Functional scope panel","shapeType":"roundRect","bbox":[70,252,250,300]}
+{"kind":"shape","slide":5,"id":"14","role":"Functional scope accent","shapeType":"rect","bbox":[70,252,8,300]}
+{"kind":"shape","slide":5,"id":"15","role":"card heading","shapeType":"rect","bbox":[94,272,210,22]}
+{"kind":"textbox","slide":5,"id":"15","role":"card heading","text":"Functional scope","textChars":16,"textLines":1,"bbox":[94,272,210,22]}
+{"kind":"shape","slide":5,"id":"16","role":"card body","shapeType":"rect","bbox":[94,308,204,220]}
+{"kind":"textbox","slide":5,"id":"16","role":"card body","text":"Browse venues, show details, register and log in with OTP, initiate bookings, track status, submit reviews, and manage dashboards.","textChars":130,"textLines":1,"bbox":[94,308,204,220]}
+{"kind":"shape","slide":5,"id":"17","role":"Technical scope panel","shapeType":"roundRect","bbox":[344,252,250,300]}
+{"kind":"shape","slide":5,"id":"18","role":"Technical scope accent","shapeType":"rect","bbox":[344,252,8,300]}
+{"kind":"shape","slide":5,"id":"19","role":"card heading","shapeType":"rect","bbox":[368,272,210,22]}
+{"kind":"textbox","slide":5,"id":"19","role":"card heading","text":"Technical scope","textChars":15,"textLines":1,"bbox":[368,272,210,22]}
+{"kind":"shape","slide":5,"id":"20","role":"card body","shapeType":"rect","bbox":[368,308,204,220]}
+{"kind":"textbox","slide":5,"id":"20","role":"card body","text":"Use PHP, MySQL, HTML, CSS, and JavaScript in a modular controller-service-repository structure with external integration support.","textChars":129,"textLines":1,"bbox":[368,308,204,220]}
+{"kind":"shape","slide":5,"id":"21","role":"Academic scope panel","shapeType":"roundRect","bbox":[618,252,250,300]}
+{"kind":"shape","slide":5,"id":"22","role":"Academic scope accent","shapeType":"rect","bbox":[618,252,8,300]}
+{"kind":"shape","slide":5,"id":"23","role":"card heading","shapeType":"rect","bbox":[642,272,210,22]}
+{"kind":"textbox","slide":5,"id":"23","role":"card heading","text":"Academic scope","textChars":14,"textLines":1,"bbox":[642,272,210,22]}
+{"kind":"shape","slide":5,"id":"24","role":"card body","shapeType":"rect","bbox":[642,308,204,220]}
+{"kind":"textbox","slide":5,"id":"24","role":"card body","text":"Demonstrate requirement analysis, UML and flow diagrams, database design, implementation, testing, documentation, and user manuals.","textChars":131,"textLines":1,"bbox":[642,308,204,220]}
+{"kind":"shape","slide":5,"id":"25","role":"scope note","shapeType":"roundRect","bbox":[70,580,798,52]}
+{"kind":"shape","slide":5,"id":"26","role":"scope note text","shapeType":"rect","bbox":[96,596,754,18]}
+{"kind":"textbox","slide":5,"id":"26","role":"scope note text","text":"Current limitations keep the focus on venue booking rather than full end-to-end event execution management.","textChars":107,"textLines":1,"bbox":[96,596,754,18]}
+{"kind":"shape","slide":6,"id":"2","role":"background","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":6,"id":"3","role":"side rail","shapeType":"rect","bbox":[996,0,284,720]}
+{"kind":"shape","slide":6,"id":"4","role":"side accent","shapeType":"rect","bbox":[968,0,12,720]}
+{"kind":"shape","slide":6,"id":"5","role":"top accent","shapeType":"rect","bbox":[0,0,178,12]}
+{"kind":"shape","slide":6,"id":"6","role":"section label","shapeType":"rect","bbox":[70,38,320,20]}
+{"kind":"textbox","slide":6,"id":"6","role":"section label","text":"OPERATING ENVIRONMENT","textChars":21,"textLines":1,"bbox":[70,38,320,20]}
+{"kind":"shape","slide":6,"id":"7","role":"page label","shapeType":"rect","bbox":[1128,38,80,20]}
+{"kind":"textbox","slide":6,"id":"7","role":"page label","text":"06 / 17","textChars":7,"textLines":1,"bbox":[1128,38,80,20]}
+{"kind":"shape","slide":6,"id":"8","role":"header rule","shapeType":"rect","bbox":[70,66,1140,2]}
+{"kind":"shape","slide":6,"id":"9","role":"footer band","shapeType":"rect","bbox":[0,680,1280,40]}
+{"kind":"shape","slide":6,"id":"10","role":"footer","shapeType":"rect","bbox":[70,693,320,14]}
+{"kind":"textbox","slide":6,"id":"10","role":"footer","text":"EMS2 | Major Project Presentation","textChars":33,"textLines":1,"bbox":[70,693,320,14]}
+{"kind":"shape","slide":6,"id":"11","role":"title","shapeType":"rect","bbox":[70,98,860,78]}
+{"kind":"textbox","slide":6,"id":"11","role":"title","text":"Operating Environment - Hardware","textChars":32,"textLines":1,"bbox":[70,98,860,78]}
+{"kind":"shape","slide":6,"id":"12","role":"subtitle","shapeType":"rect","bbox":[70,184,860,52]}
+{"kind":"textbox","slide":6,"id":"12","role":"subtitle","text":"The project runs in a standard web application setup and does not require specialized hardware.","textChars":95,"textLines":1,"bbox":[70,184,860,52]}
+{"kind":"shape","slide":6,"id":"13","role":"Processor panel","shapeType":"roundRect","bbox":[70,256,200,130]}
+{"kind":"shape","slide":6,"id":"14","role":"Processor accent","shapeType":"rect","bbox":[70,256,8,130]}
+{"kind":"shape","slide":6,"id":"15","role":"metric value","shapeType":"rect","bbox":[92,274,156,36]}
+{"kind":"textbox","slide":6,"id":"15","role":"metric value","text":"i3+","textChars":3,"textLines":1,"bbox":[92,274,156,36]}
+{"kind":"shape","slide":6,"id":"16","role":"metric label","shapeType":"rect","bbox":[92,318,156,20]}
+{"kind":"textbox","slide":6,"id":"16","role":"metric label","text":"Processor","textChars":9,"textLines":1,"bbox":[92,318,156,20]}
+{"kind":"shape","slide":6,"id":"17","role":"metric note","shapeType":"rect","bbox":[92,350,156,30]}
+{"kind":"textbox","slide":6,"id":"17","role":"metric note","text":"Intel Core i3, i5, or higher","textChars":28,"textLines":1,"bbox":[92,350,156,30]}
+{"kind":"shape","slide":6,"id":"18","role":"Minimum RAM panel","shapeType":"roundRect","bbox":[292,256,200,130]}
+{"kind":"shape","slide":6,"id":"19","role":"Minimum RAM accent","shapeType":"rect","bbox":[292,256,8,130]}
+{"kind":"shape","slide":6,"id":"20","role":"metric value","shapeType":"rect","bbox":[314,274,156,36]}
+{"kind":"textbox","slide":6,"id":"20","role":"metric value","text":"4 GB","textChars":4,"textLines":1,"bbox":[314,274,156,36]}
+{"kind":"shape","slide":6,"id":"21","role":"metric label","shapeType":"rect","bbox":[314,318,156,20]}
+{"kind":"textbox","slide":6,"id":"21","role":"metric label","text":"Minimum RAM","textChars":11,"textLines":1,"bbox":[314,318,156,20]}
+{"kind":"shape","slide":6,"id":"22","role":"metric note","shapeType":"rect","bbox":[314,350,156,30]}
+{"kind":"textbox","slide":6,"id":"22","role":"metric note","text":"8 GB is recommended for smoother use","textChars":36,"textLines":1,"bbox":[314,350,156,30]}
+{"kind":"shape","slide":6,"id":"23","role":"Storage panel","shapeType":"roundRect","bbox":[514,256,200,130]}
+{"kind":"shape","slide":6,"id":"24","role":"Storage accent","shapeType":"rect","bbox":[514,256,8,130]}
+{"kind":"shape","slide":6,"id":"25","role":"metric value","shapeType":"rect","bbox":[536,274,156,36]}
+{"kind":"textbox","slide":6,"id":"25","role":"metric value","text":"20 GB","textChars":5,"textLines":1,"bbox":[536,274,156,36]}
+{"kind":"shape","slide":6,"id":"26","role":"metric label","shapeType":"rect","bbox":[536,318,156,20]}
+{"kind":"textbox","slide":6,"id":"26","role":"metric label","text":"Storage","textChars":7,"textLines":1,"bbox":[536,318,156,20]}
+{"kind":"shape","slide":6,"id":"27","role":"metric note","shapeType":"rect","bbox":[536,350,156,30]}
+{"kind":"textbox","slide":6,"id":"27","role":"metric note","text":"Free disk space for code, DB, and services","textChars":42,"textLines":1,"bbox":[536,350,156,30]}
+{"kind":"shape","slide":6,"id":"28","role":"Internet panel","shapeType":"roundRect","bbox":[736,256,200,130]}
+{"kind":"shape","slide":6,"id":"29","role":"Internet accent","shapeType":"rect","bbox":[736,256,8,130]}
+{"kind":"shape","slide":6,"id":"30","role":"metric value","shapeType":"rect","bbox":[758,274,156,36]}
+{"kind":"textbox","slide":6,"id":"30","role":"metric value","text":"Net","textChars":3,"textLines":1,"bbox":[758,274,156,36]}
+{"kind":"shape","slide":6,"id":"31","role":"metric label","shapeType":"rect","bbox":[758,318,156,20]}
+{"kind":"textbox","slide":6,"id":"31","role":"metric label","text":"Internet","textChars":8,"textLines":1,"bbox":[758,318,156,20]}
+{"kind":"shape","slide":6,"id":"32","role":"metric note","shapeType":"rect","bbox":[758,350,156,30]}
+{"kind":"textbox","slide":6,"id":"32","role":"metric note","text":"Needed for payment, mail, or SMS integrations","textChars":45,"textLines":1,"bbox":[758,350,156,30]}
+{"kind":"shape","slide":6,"id":"33","role":"hardware panel","shapeType":"roundRect","bbox":[70,430,866,188]}
+{"kind":"shape","slide":6,"id":"34","role":"hardware accent","shapeType":"rect","bbox":[70,430,8,188]}
+{"kind":"shape","slide":6,"id":"35","role":"bullet","shapeType":"ellipse","bbox":[98,476,10,10]}
+{"kind":"shape","slide":6,"id":"36","role":"bullet text","shapeType":"rect","bbox":[122,468,796,28]}
+{"kind":"textbox","slide":6,"id":"36","role":"bullet text","text":"Standard monitor or laptop screen is sufficient for development and demonstration.","textChars":82,"textLines":1,"bbox":[122,468,796,28]}
+{"kind":"shape","slide":6,"id":"37","role":"bullet","shapeType":"ellipse","bbox":[98,514,10,10]}
+{"kind":"shape","slide":6,"id":"38","role":"bullet text","shapeType":"rect","bbox":[122,506,796,28]}
+{"kind":"textbox","slide":6,"id":"38","role":"bullet text","text":"Keyboard and mouse support routine use, testing, and operator tasks.","textChars":68,"textLines":1,"bbox":[122,506,796,28]}
+{"kind":"shape","slide":6,"id":"39","role":"bullet","shapeType":"ellipse","bbox":[98,552,10,10]}
+{"kind":"shape","slide":6,"id":"40","role":"bullet text","shapeType":"rect","bbox":[122,544,796,28]}
+{"kind":"textbox","slide":6,"id":"40","role":"bullet text","text":"The environment is practical for both local academic deployment and project demo setup.","textChars":87,"textLines":1,"bbox":[122,544,796,28]}
+{"kind":"shape","slide":7,"id":"2","role":"background","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":7,"id":"3","role":"side rail","shapeType":"rect","bbox":[996,0,284,720]}
+{"kind":"shape","slide":7,"id":"4","role":"side accent","shapeType":"rect","bbox":[968,0,12,720]}
+{"kind":"shape","slide":7,"id":"5","role":"top accent","shapeType":"rect","bbox":[0,0,178,12]}
+{"kind":"shape","slide":7,"id":"6","role":"section label","shapeType":"rect","bbox":[70,38,320,20]}
+{"kind":"textbox","slide":7,"id":"6","role":"section label","text":"OPERATING ENVIRONMENT","textChars":21,"textLines":1,"bbox":[70,38,320,20]}
+{"kind":"shape","slide":7,"id":"7","role":"page label","shapeType":"rect","bbox":[1128,38,80,20]}
+{"kind":"textbox","slide":7,"id":"7","role":"page label","text":"07 / 17","textChars":7,"textLines":1,"bbox":[1128,38,80,20]}
+{"kind":"shape","slide":7,"id":"8","role":"header rule","shapeType":"rect","bbox":[70,66,1140,2]}
+{"kind":"shape","slide":7,"id":"9","role":"footer band","shapeType":"rect","bbox":[0,680,1280,40]}
+{"kind":"shape","slide":7,"id":"10","role":"footer","shapeType":"rect","bbox":[70,693,320,14]}
+{"kind":"textbox","slide":7,"id":"10","role":"footer","text":"EMS2 | Major Project Presentation","textChars":33,"textLines":1,"bbox":[70,693,320,14]}
+{"kind":"shape","slide":7,"id":"11","role":"title","shapeType":"rect","bbox":[70,98,860,78]}
+{"kind":"textbox","slide":7,"id":"11","role":"title","text":"Operating Environment - Software","textChars":32,"textLines":1,"bbox":[70,98,860,78]}
+{"kind":"shape","slide":7,"id":"12","role":"subtitle","shapeType":"rect","bbox":[70,184,860,52]}
+{"kind":"textbox","slide":7,"id":"12","role":"subtitle","text":"EMS2 is developed in a common Windows web-stack environment with optional service integrations.","textChars":95,"textLines":1,"bbox":[70,184,860,52]}
+{"kind":"shape","slide":7,"id":"13","role":"Core software panel","shapeType":"roundRect","bbox":[70,252,250,304]}
+{"kind":"shape","slide":7,"id":"14","role":"Core software accent","shapeType":"rect","bbox":[70,252,8,304]}
+{"kind":"shape","slide":7,"id":"15","role":"card heading","shapeType":"rect","bbox":[94,272,210,22]}
+{"kind":"textbox","slide":7,"id":"15","role":"card heading","text":"Core software","textChars":13,"textLines":1,"bbox":[94,272,210,22]}
+{"kind":"shape","slide":7,"id":"16","role":"card body","shapeType":"rect","bbox":[94,308,204,224]}
+{"kind":"textbox","slide":7,"id":"16","role":"card body","text":"Windows 10 or 11, XAMPP, Apache, MySQL, PHP, and a browser such as Chrome, Edge, or Firefox.","textChars":92,"textLines":1,"bbox":[94,308,204,224]}
+{"kind":"shape","slide":7,"id":"17","role":"Development tools panel","shapeType":"roundRect","bbox":[344,252,250,304]}
+{"kind":"shape","slide":7,"id":"18","role":"Development tools accent","shapeType":"rect","bbox":[344,252,8,304]}
+{"kind":"shape","slide":7,"id":"19","role":"card heading","shapeType":"rect","bbox":[368,272,210,22]}
+{"kind":"textbox","slide":7,"id":"19","role":"card heading","text":"Development tools","textChars":17,"textLines":1,"bbox":[368,272,210,22]}
+{"kind":"shape","slide":7,"id":"20","role":"card body","shapeType":"rect","bbox":[368,308,204,224]}
+{"kind":"textbox","slide":7,"id":"20","role":"card body","text":"VS Code or a similar IDE is used for coding, while Git supports version control and project tracking.","textChars":101,"textLines":1,"bbox":[368,308,204,224]}
+{"kind":"shape","slide":7,"id":"21","role":"Optional services panel","shapeType":"roundRect","bbox":[618,252,250,304]}
+{"kind":"shape","slide":7,"id":"22","role":"Optional services accent","shapeType":"rect","bbox":[618,252,8,304]}
+{"kind":"shape","slide":7,"id":"23","role":"card heading","shapeType":"rect","bbox":[642,272,210,22]}
+{"kind":"textbox","slide":7,"id":"23","role":"card heading","text":"Optional services","textChars":17,"textLines":1,"bbox":[642,272,210,22]}
+{"kind":"shape","slide":7,"id":"24","role":"card body","shapeType":"rect","bbox":[642,308,204,224]}
+{"kind":"textbox","slide":7,"id":"24","role":"card body","text":"SMTP or PHPMailer, Razorpay-style payment support, Twilio, Python runtime, and Java runtime with Maven.","textChars":103,"textLines":1,"bbox":[642,308,204,224]}
+{"kind":"shape","slide":7,"id":"25","role":"software note","shapeType":"roundRect","bbox":[70,584,798,44]}
+{"kind":"shape","slide":7,"id":"26","role":"software note text","shapeType":"rect","bbox":[96,598,756,16]}
+{"kind":"textbox","slide":7,"id":"26","role":"software note text","text":"This environment keeps installation and testing accessible while still supporting multi-module architecture.","textChars":108,"textLines":1,"bbox":[96,598,756,16]}
+{"kind":"shape","slide":8,"id":"2","role":"background","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":8,"id":"3","role":"side rail","shapeType":"rect","bbox":[996,0,284,720]}
+{"kind":"shape","slide":8,"id":"4","role":"side accent","shapeType":"rect","bbox":[968,0,12,720]}
+{"kind":"shape","slide":8,"id":"5","role":"top accent","shapeType":"rect","bbox":[0,0,178,12]}
+{"kind":"shape","slide":8,"id":"6","role":"section label","shapeType":"rect","bbox":[70,38,320,20]}
+{"kind":"textbox","slide":8,"id":"6","role":"section label","text":"TECHNOLOGY USED","textChars":15,"textLines":1,"bbox":[70,38,320,20]}
+{"kind":"shape","slide":8,"id":"7","role":"page label","shapeType":"rect","bbox":[1128,38,80,20]}
+{"kind":"textbox","slide":8,"id":"7","role":"page label","text":"08 / 17","textChars":7,"textLines":1,"bbox":[1128,38,80,20]}
+{"kind":"shape","slide":8,"id":"8","role":"header rule","shapeType":"rect","bbox":[70,66,1140,2]}
+{"kind":"shape","slide":8,"id":"9","role":"footer band","shapeType":"rect","bbox":[0,680,1280,40]}
+{"kind":"shape","slide":8,"id":"10","role":"footer","shapeType":"rect","bbox":[70,693,320,14]}
+{"kind":"textbox","slide":8,"id":"10","role":"footer","text":"EMS2 | Major Project Presentation","textChars":33,"textLines":1,"bbox":[70,693,320,14]}
+{"kind":"shape","slide":8,"id":"11","role":"title","shapeType":"rect","bbox":[70,98,860,78]}
+{"kind":"textbox","slide":8,"id":"11","role":"title","text":"Detailed Description of the Technology Used","textChars":43,"textLines":1,"bbox":[70,98,860,78]}
+{"kind":"shape","slide":8,"id":"12","role":"subtitle","shapeType":"rect","bbox":[70,184,860,52]}
+{"kind":"textbox","slide":8,"id":"12","role":"subtitle","text":"The core stack combines backend logic, persistent storage, and front-end structure for a web-based booking platform.","textChars":116,"textLines":1,"bbox":[70,184,860,52]}
+{"kind":"shape","slide":8,"id":"13","role":"PHP panel","shapeType":"roundRect","bbox":[70,252,250,298]}
+{"kind":"shape","slide":8,"id":"14","role":"PHP accent","shapeType":"rect","bbox":[70,252,8,298]}
+{"kind":"shape","slide":8,"id":"15","role":"card heading","shapeType":"rect","bbox":[94,272,210,22]}
+{"kind":"textbox","slide":8,"id":"15","role":"card heading","text":"PHP","textChars":3,"textLines":1,"bbox":[94,272,210,22]}
+{"kind":"shape","slide":8,"id":"16","role":"card body","shapeType":"rect","bbox":[94,308,204,218]}
+{"kind":"textbox","slide":8,"id":"16","role":"card body","text":"Handles routing, session management, controller flow, form processing, and dynamic page rendering for the main web application.","textChars":127,"textLines":1,"bbox":[94,308,204,218]}
+{"kind":"shape","slide":8,"id":"17","role":"MySQL panel","shapeType":"roundRect","bbox":[344,252,250,298]}
+{"kind":"shape","slide":8,"id":"18","role":"MySQL accent","shapeType":"rect","bbox":[344,252,8,298]}
+{"kind":"shape","slide":8,"id":"19","role":"card heading","shapeType":"rect","bbox":[368,272,210,22]}
+{"kind":"textbox","slide":8,"id":"19","role":"card heading","text":"MySQL","textChars":5,"textLines":1,"bbox":[368,272,210,22]}
+{"kind":"shape","slide":8,"id":"20","role":"card body","shapeType":"rect","bbox":[368,308,204,218]}
+{"kind":"textbox","slide":8,"id":"20","role":"card body","text":"Stores users, venues, slots, bookings, reviews, and webhook-related records in a structured relational database.","textChars":112,"textLines":1,"bbox":[368,308,204,218]}
+{"kind":"shape","slide":8,"id":"21","role":"HTML / CSS / JS panel","shapeType":"roundRect","bbox":[618,252,250,298]}
+{"kind":"shape","slide":8,"id":"22","role":"HTML / CSS / JS accent","shapeType":"rect","bbox":[618,252,8,298]}
+{"kind":"shape","slide":8,"id":"23","role":"card heading","shapeType":"rect","bbox":[642,272,210,22]}
+{"kind":"textbox","slide":8,"id":"23","role":"card heading","text":"HTML / CSS / JS","textChars":15,"textLines":1,"bbox":[642,272,210,22]}
+{"kind":"shape","slide":8,"id":"24","role":"card body","shapeType":"rect","bbox":[642,308,204,218]}
+{"kind":"textbox","slide":8,"id":"24","role":"card body","text":"Define page structure, styling, responsiveness, and client-side interaction across the public site and dashboard views.","textChars":119,"textLines":1,"bbox":[642,308,204,218]}
+{"kind":"shape","slide":8,"id":"25","role":"tech summary","shapeType":"roundRect","bbox":[70,578,798,48]}
+{"kind":"shape","slide":8,"id":"26","role":"tech summary text","shapeType":"rect","bbox":[96,592,754,18]}
+{"kind":"textbox","slide":8,"id":"26","role":"tech summary text","text":"Together, these technologies form the working foundation of the EMS2 website and dashboard experience.","textChars":102,"textLines":1,"bbox":[96,592,754,18]}
+{"kind":"shape","slide":9,"id":"2","role":"background","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":9,"id":"3","role":"side rail","shapeType":"rect","bbox":[996,0,284,720]}
+{"kind":"shape","slide":9,"id":"4","role":"side accent","shapeType":"rect","bbox":[968,0,12,720]}
+{"kind":"shape","slide":9,"id":"5","role":"top accent","shapeType":"rect","bbox":[0,0,178,12]}
+{"kind":"shape","slide":9,"id":"6","role":"section label","shapeType":"rect","bbox":[70,38,320,20]}
+{"kind":"textbox","slide":9,"id":"6","role":"section label","text":"TECHNOLOGY USED","textChars":15,"textLines":1,"bbox":[70,38,320,20]}
+{"kind":"shape","slide":9,"id":"7","role":"page label","shapeType":"rect","bbox":[1128,38,80,20]}
+{"kind":"textbox","slide":9,"id":"7","role":"page label","text":"09 / 17","textChars":7,"textLines":1,"bbox":[1128,38,80,20]}
+{"kind":"shape","slide":9,"id":"8","role":"header rule","shapeType":"rect","bbox":[70,66,1140,2]}
+{"kind":"shape","slide":9,"id":"9","role":"footer band","shapeType":"rect","bbox":[0,680,1280,40]}
+{"kind":"shape","slide":9,"id":"10","role":"footer","shapeType":"rect","bbox":[70,693,320,14]}
+{"kind":"textbox","slide":9,"id":"10","role":"footer","text":"EMS2 | Major Project Presentation","textChars":33,"textLines":1,"bbox":[70,693,320,14]}
+{"kind":"shape","slide":9,"id":"11","role":"title","shapeType":"rect","bbox":[70,98,860,78]}
+{"kind":"textbox","slide":9,"id":"11","role":"title","text":"Supporting Technologies and Services","textChars":36,"textLines":1,"bbox":[70,98,860,78]}
+{"kind":"shape","slide":9,"id":"12","role":"subtitle","shapeType":"rect","bbox":[70,184,860,52]}
+{"kind":"textbox","slide":9,"id":"12","role":"subtitle","text":"The architecture also includes local server tooling, communication services, and auxiliary modules for future growth.","textChars":117,"textLines":1,"bbox":[70,184,860,52]}
+{"kind":"shape","slide":9,"id":"13","role":"Apache and XAMPP panel","shapeType":"roundRect","bbox":[70,252,250,304]}
+{"kind":"shape","slide":9,"id":"14","role":"Apache and XAMPP accent","shapeType":"rect","bbox":[70,252,8,304]}
+{"kind":"shape","slide":9,"id":"15","role":"card heading","shapeType":"rect","bbox":[94,272,210,22]}
+{"kind":"textbox","slide":9,"id":"15","role":"card heading","text":"Apache and XAMPP","textChars":16,"textLines":1,"bbox":[94,272,210,22]}
+{"kind":"shape","slide":9,"id":"16","role":"card body","shapeType":"rect","bbox":[94,308,204,224]}
+{"kind":"textbox","slide":9,"id":"16","role":"card body","text":"Provide the local execution environment for PHP and MySQL, making academic setup and browser testing straightforward.","textChars":117,"textLines":1,"bbox":[94,308,204,224]}
+{"kind":"shape","slide":9,"id":"17","role":"PHPMailer / payment / SMS panel","shapeType":"roundRect","bbox":[344,252,250,304]}
+{"kind":"shape","slide":9,"id":"18","role":"PHPMailer / payment / SMS accent","shapeType":"rect","bbox":[344,252,8,304]}
+{"kind":"shape","slide":9,"id":"19","role":"card heading","shapeType":"rect","bbox":[368,272,210,22]}
+{"kind":"textbox","slide":9,"id":"19","role":"card heading","text":"PHPMailer / payment / SMS","textChars":25,"textLines":1,"bbox":[368,272,210,22]}
+{"kind":"shape","slide":9,"id":"20","role":"card body","shapeType":"rect","bbox":[368,308,204,224]}
+{"kind":"textbox","slide":9,"id":"20","role":"card body","text":"Support OTP delivery, booking-related payment flow, webhook handling, and owner notification capabilities.","textChars":106,"textLines":1,"bbox":[368,308,204,224]}
+{"kind":"shape","slide":9,"id":"21","role":"Python and Java modules panel","shapeType":"roundRect","bbox":[618,252,250,304]}
+{"kind":"shape","slide":9,"id":"22","role":"Python and Java modules accent","shapeType":"rect","bbox":[618,252,8,304]}
+{"kind":"shape","slide":9,"id":"23","role":"card heading","shapeType":"rect","bbox":[642,272,210,22]}
+{"kind":"textbox","slide":9,"id":"23","role":"card heading","text":"Python and Java modules","textChars":23,"textLines":1,"bbox":[642,272,210,22]}
+{"kind":"shape","slide":9,"id":"24","role":"card body","shapeType":"rect","bbox":[642,308,204,224]}
+{"kind":"textbox","slide":9,"id":"24","role":"card body","text":"Extend the project with review sentiment scoring and concurrency-aware booking validation for future-ready architecture.","textChars":120,"textLines":1,"bbox":[642,308,204,224]}
+{"kind":"shape","slide":9,"id":"25","role":"bullet","shapeType":"ellipse","bbox":[96,592,10,10]}
+{"kind":"shape","slide":9,"id":"26","role":"bullet text","shapeType":"rect","bbox":[120,584,736,28]}
+{"kind":"textbox","slide":9,"id":"26","role":"bullet text","text":"These modules make the system more serious than a basic CRUD demo.","textChars":66,"textLines":1,"bbox":[120,584,736,28]}
+{"kind":"shape","slide":9,"id":"27","role":"bullet","shapeType":"ellipse","bbox":[96,620,10,10]}
+{"kind":"shape","slide":9,"id":"28","role":"bullet text","shapeType":"rect","bbox":[120,612,736,28]}
+{"kind":"textbox","slide":9,"id":"28","role":"bullet text","text":"They also create a clean path for future enhancements without redesigning the core platform.","textChars":92,"textLines":1,"bbox":[120,612,736,28]}
+{"kind":"shape","slide":10,"id":"2","role":"background","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":10,"id":"3","role":"side rail","shapeType":"rect","bbox":[996,0,284,720]}
+{"kind":"shape","slide":10,"id":"4","role":"side accent","shapeType":"rect","bbox":[968,0,12,720]}
+{"kind":"shape","slide":10,"id":"5","role":"top accent","shapeType":"rect","bbox":[0,0,178,12]}
+{"kind":"shape","slide":10,"id":"6","role":"section label","shapeType":"rect","bbox":[70,38,320,20]}
+{"kind":"textbox","slide":10,"id":"6","role":"section label","text":"SCREENS","textChars":7,"textLines":1,"bbox":[70,38,320,20]}
+{"kind":"shape","slide":10,"id":"7","role":"page label","shapeType":"rect","bbox":[1128,38,80,20]}
+{"kind":"textbox","slide":10,"id":"7","role":"page label","text":"10 / 17","textChars":7,"textLines":1,"bbox":[1128,38,80,20]}
+{"kind":"shape","slide":10,"id":"8","role":"header rule","shapeType":"rect","bbox":[70,66,1140,2]}
+{"kind":"shape","slide":10,"id":"9","role":"footer band","shapeType":"rect","bbox":[0,680,1280,40]}
+{"kind":"shape","slide":10,"id":"10","role":"footer","shapeType":"rect","bbox":[70,693,320,14]}
+{"kind":"textbox","slide":10,"id":"10","role":"footer","text":"EMS2 | Major Project Presentation","textChars":33,"textLines":1,"bbox":[70,693,320,14]}
+{"kind":"shape","slide":10,"id":"11","role":"title","shapeType":"rect","bbox":[70,98,860,78]}
+{"kind":"textbox","slide":10,"id":"11","role":"title","text":"Application Screens - Home and Venue Directory","textChars":46,"textLines":1,"bbox":[70,98,860,78]}
+{"kind":"shape","slide":10,"id":"12","role":"subtitle","shapeType":"rect","bbox":[70,184,860,52]}
+{"kind":"textbox","slide":10,"id":"12","role":"subtitle","text":"These layouts are based on the actual view structure defined in the EMS2 public-facing pages.","textChars":93,"textLines":1,"bbox":[70,184,860,52]}
+{"kind":"shape","slide":10,"id":"13","role":"home screen panel","shapeType":"roundRect","bbox":[70,248,392,350]}
+{"kind":"shape","slide":10,"id":"14","role":"home screen accent","shapeType":"rect","bbox":[70,248,8,350]}
+{"kind":"shape","slide":10,"id":"15","role":"screen title","shapeType":"rect","bbox":[96,268,160,20]}
+{"kind":"textbox","slide":10,"id":"15","role":"screen title","text":"Home Page","textChars":9,"textLines":1,"bbox":[96,268,160,20]}
+{"kind":"shape","slide":10,"id":"16","role":"hero block","shapeType":"roundRect","bbox":[96,304,340,112]}
+{"kind":"shape","slide":10,"id":"17","role":"hero text","shapeType":"rect","bbox":[118,330,294,50]}
+{"kind":"textbox","slide":10,"id":"17","role":"hero text","text":"Discover Pune venues with live availability and cleaner booking flow","textChars":68,"textLines":1,"bbox":[118,330,294,50]}
+{"kind":"shape","slide":10,"id":"18","role":"button 1","shapeType":"roundRect","bbox":[96,438,104,26]}
+{"kind":"shape","slide":10,"id":"19","role":"button 2","shapeType":"roundRect","bbox":[212,438,126,26]}
+{"kind":"shape","slide":10,"id":"20","role":"mini card 1","shapeType":"roundRect","bbox":[96,486,100,80]}
+{"kind":"shape","slide":10,"id":"21","role":"mini card 2","shapeType":"roundRect","bbox":[208,486,100,80]}
+{"kind":"shape","slide":10,"id":"22","role":"mini card 3","shapeType":"roundRect","bbox":[320,486,100,80]}
+{"kind":"shape","slide":10,"id":"23","role":"venues screen panel","shapeType":"roundRect","bbox":[492,248,392,350]}
+{"kind":"shape","slide":10,"id":"24","role":"venues screen accent","shapeType":"rect","bbox":[492,248,8,350]}
+{"kind":"shape","slide":10,"id":"25","role":"screen title","shapeType":"rect","bbox":[518,268,180,20]}
+{"kind":"textbox","slide":10,"id":"25","role":"screen title","text":"Venue Listing Page","textChars":18,"textLines":1,"bbox":[518,268,180,20]}
+{"kind":"shape","slide":10,"id":"26","role":"venue card 1","shapeType":"roundRect","bbox":[518,308,104,210]}
+{"kind":"shape","slide":10,"id":"27","role":"venue image 1","shapeType":"rect","bbox":[530,320,80,66]}
+{"kind":"shape","slide":10,"id":"28","role":"venue card title","shapeType":"rect","bbox":[530,400,80,18]}
+{"kind":"textbox","slide":10,"id":"28","role":"venue card title","text":"Venue 1","textChars":7,"textLines":1,"bbox":[530,400,80,18]}
+{"kind":"shape","slide":10,"id":"29","role":"venue card meta","shapeType":"rect","bbox":[530,426,72,52]}
+{"kind":"textbox","slide":10,"id":"29","role":"venue card meta","text":"Category\nPrice\nCapacity","textChars":23,"textLines":3,"bbox":[530,426,72,52]}
+{"kind":"shape","slide":10,"id":"30","role":"venue card 2","shapeType":"roundRect","bbox":[636,308,104,210]}
+{"kind":"shape","slide":10,"id":"31","role":"venue image 2","shapeType":"rect","bbox":[648,320,80,66]}
+{"kind":"shape","slide":10,"id":"32","role":"venue card title","shapeType":"rect","bbox":[648,400,80,18]}
+{"kind":"textbox","slide":10,"id":"32","role":"venue card title","text":"Venue 2","textChars":7,"textLines":1,"bbox":[648,400,80,18]}
+{"kind":"shape","slide":10,"id":"33","role":"venue card meta","shapeType":"rect","bbox":[648,426,72,52]}
+{"kind":"textbox","slide":10,"id":"33","role":"venue card meta","text":"Category\nPrice\nCapacity","textChars":23,"textLines":3,"bbox":[648,426,72,52]}
+{"kind":"shape","slide":10,"id":"34","role":"venue card 3","shapeType":"roundRect","bbox":[754,308,104,210]}
+{"kind":"shape","slide":10,"id":"35","role":"venue image 3","shapeType":"rect","bbox":[766,320,80,66]}
+{"kind":"shape","slide":10,"id":"36","role":"venue card title","shapeType":"rect","bbox":[766,400,80,18]}
+{"kind":"textbox","slide":10,"id":"36","role":"venue card title","text":"Venue 3","textChars":7,"textLines":1,"bbox":[766,400,80,18]}
+{"kind":"shape","slide":10,"id":"37","role":"venue card meta","shapeType":"rect","bbox":[766,426,72,52]}
+{"kind":"textbox","slide":10,"id":"37","role":"venue card meta","text":"Category\nPrice\nCapacity","textChars":23,"textLines":3,"bbox":[766,426,72,52]}
+{"kind":"image","slide":10,"id":"38","role":"logo small","path":"C:\\xampp\\htdocs\\EMS2\\php-app\\public\\assets\\puneeventhub-logo.jpg","bbox":[1022,260,166,166]}
+{"kind":"shape","slide":10,"id":"39","role":"UI notes panel","shapeType":"roundRect","bbox":[1006,452,192,146]}
+{"kind":"shape","slide":10,"id":"40","role":"UI notes accent","shapeType":"rect","bbox":[1006,452,8,146]}
+{"kind":"shape","slide":10,"id":"41","role":"card heading","shapeType":"rect","bbox":[1030,472,152,22]}
+{"kind":"textbox","slide":10,"id":"41","role":"card heading","text":"UI notes","textChars":8,"textLines":1,"bbox":[1030,472,152,22]}
+{"kind":"shape","slide":10,"id":"42","role":"card body","shapeType":"rect","bbox":[1030,508,146,66]}
+{"kind":"textbox","slide":10,"id":"42","role":"card body","text":"The public site emphasizes venue discovery, featured sections, and quick access to detailed venue pages.","textChars":104,"textLines":1,"bbox":[1030,508,146,66]}
+{"kind":"shape","slide":11,"id":"2","role":"background","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":11,"id":"3","role":"side rail","shapeType":"rect","bbox":[996,0,284,720]}
+{"kind":"shape","slide":11,"id":"4","role":"side accent","shapeType":"rect","bbox":[968,0,12,720]}
+{"kind":"shape","slide":11,"id":"5","role":"top accent","shapeType":"rect","bbox":[0,0,178,12]}
+{"kind":"shape","slide":11,"id":"6","role":"section label","shapeType":"rect","bbox":[70,38,320,20]}
+{"kind":"textbox","slide":11,"id":"6","role":"section label","text":"SCREENS","textChars":7,"textLines":1,"bbox":[70,38,320,20]}
+{"kind":"shape","slide":11,"id":"7","role":"page label","shapeType":"rect","bbox":[1128,38,80,20]}
+{"kind":"textbox","slide":11,"id":"7","role":"page label","text":"11 / 17","textChars":7,"textLines":1,"bbox":[1128,38,80,20]}
+{"kind":"shape","slide":11,"id":"8","role":"header rule","shapeType":"rect","bbox":[70,66,1140,2]}
+{"kind":"shape","slide":11,"id":"9","role":"footer band","shapeType":"rect","bbox":[0,680,1280,40]}
+{"kind":"shape","slide":11,"id":"10","role":"footer","shapeType":"rect","bbox":[70,693,320,14]}
+{"kind":"textbox","slide":11,"id":"10","role":"footer","text":"EMS2 | Major Project Presentation","textChars":33,"textLines":1,"bbox":[70,693,320,14]}
+{"kind":"shape","slide":11,"id":"11","role":"title","shapeType":"rect","bbox":[70,98,860,78]}
+{"kind":"textbox","slide":11,"id":"11","role":"title","text":"Application Screens - Venue Detail, Auth, and Dashboard","textChars":55,"textLines":1,"bbox":[70,98,860,78]}
+{"kind":"shape","slide":11,"id":"12","role":"subtitle","shapeType":"rect","bbox":[70,184,860,52]}
+{"kind":"textbox","slide":11,"id":"12","role":"subtitle","text":"The system includes detailed venue interaction, OTP-based authentication, and role-sensitive dashboards.","textChars":104,"textLines":1,"bbox":[70,184,860,52]}
+{"kind":"shape","slide":11,"id":"13","role":"detail screen panel","shapeType":"roundRect","bbox":[70,248,392,350]}
+{"kind":"shape","slide":11,"id":"14","role":"detail screen accent","shapeType":"rect","bbox":[70,248,8,350]}
+{"kind":"shape","slide":11,"id":"15","role":"screen title","shapeType":"rect","bbox":[96,268,180,20]}
+{"kind":"textbox","slide":11,"id":"15","role":"screen title","text":"Venue Detail Page","textChars":17,"textLines":1,"bbox":[96,268,180,20]}
+{"kind":"shape","slide":11,"id":"16","role":"gallery area","shapeType":"rect","bbox":[96,304,340,112]}
+{"kind":"shape","slide":11,"id":"17","role":"detail metric 1","shapeType":"roundRect","bbox":[96,430,104,74]}
+{"kind":"shape","slide":11,"id":"18","role":"detail metric 2","shapeType":"roundRect","bbox":[212,430,104,74]}
+{"kind":"shape","slide":11,"id":"19","role":"detail metric 3","shapeType":"roundRect","bbox":[332,430,104,74]}
+{"kind":"shape","slide":11,"id":"20","role":"booking planner","shapeType":"roundRect","bbox":[96,522,340,50]}
+{"kind":"shape","slide":11,"id":"21","role":"detail summary","shapeType":"rect","bbox":[112,536,306,22]}
+{"kind":"textbox","slide":11,"id":"21","role":"detail summary","text":"Gallery, reviews, booking planner, and event details appear on this page.","textChars":73,"textLines":1,"bbox":[112,536,306,22]}
+{"kind":"shape","slide":11,"id":"22","role":"auth screen panel","shapeType":"roundRect","bbox":[492,248,220,350]}
+{"kind":"shape","slide":11,"id":"23","role":"auth screen accent","shapeType":"rect","bbox":[492,248,8,350]}
+{"kind":"shape","slide":11,"id":"24","role":"screen title","shapeType":"rect","bbox":[518,268,150,20]}
+{"kind":"textbox","slide":11,"id":"24","role":"screen title","text":"Login / Register","textChars":16,"textLines":1,"bbox":[518,268,150,20]}
+{"kind":"shape","slide":11,"id":"25","role":"field 1","shapeType":"roundRect","bbox":[518,314,168,40]}
+{"kind":"shape","slide":11,"id":"26","role":"field 2","shapeType":"roundRect","bbox":[518,370,168,40]}
+{"kind":"shape","slide":11,"id":"27","role":"field 3","shapeType":"roundRect","bbox":[518,426,168,40]}
+{"kind":"shape","slide":11,"id":"28","role":"otp button","shapeType":"roundRect","bbox":[518,488,110,28]}
+{"kind":"shape","slide":11,"id":"29","role":"auth summary","shapeType":"rect","bbox":[518,536,168,48]}
+{"kind":"textbox","slide":11,"id":"29","role":"auth summary","text":"Identity input,\nOTP verification,\nand guided sign-in flow","textChars":57,"textLines":3,"bbox":[518,536,168,48]}
+{"kind":"shape","slide":11,"id":"30","role":"dashboard screen panel","shapeType":"roundRect","bbox":[742,248,198,350]}
+{"kind":"shape","slide":11,"id":"31","role":"dashboard screen accent","shapeType":"rect","bbox":[742,248,8,350]}
+{"kind":"shape","slide":11,"id":"32","role":"screen title","shapeType":"rect","bbox":[768,268,100,20]}
+{"kind":"textbox","slide":11,"id":"32","role":"screen title","text":"Dashboard","textChars":9,"textLines":1,"bbox":[768,268,100,20]}
+{"kind":"shape","slide":11,"id":"33","role":"dash metric 1","shapeType":"roundRect","bbox":[768,314,58,52]}
+{"kind":"shape","slide":11,"id":"34","role":"dash metric 2","shapeType":"roundRect","bbox":[840,314,58,52]}
+{"kind":"shape","slide":11,"id":"35","role":"dash metric 3","shapeType":"roundRect","bbox":[768,384,58,52]}
+{"kind":"shape","slide":11,"id":"36","role":"dash metric 4","shapeType":"roundRect","bbox":[840,384,58,52]}
+{"kind":"shape","slide":11,"id":"37","role":"dash panel","shapeType":"roundRect","bbox":[768,458,146,106]}
+{"kind":"shape","slide":11,"id":"38","role":"dash summary","shapeType":"rect","bbox":[768,580,150,34]}
+{"kind":"textbox","slide":11,"id":"38","role":"dash summary","text":"Role-specific metrics, booking review panels, and management actions.","textChars":69,"textLines":1,"bbox":[768,580,150,34]}
+{"kind":"shape","slide":11,"id":"39","role":"Screen interpretation panel","shapeType":"roundRect","bbox":[1000,256,206,332]}
+{"kind":"shape","slide":11,"id":"40","role":"Screen interpretation accent","shapeType":"rect","bbox":[1000,256,8,332]}
+{"kind":"shape","slide":11,"id":"41","role":"card heading","shapeType":"rect","bbox":[1024,276,166,22]}
+{"kind":"textbox","slide":11,"id":"41","role":"card heading","text":"Screen interpretation","textChars":21,"textLines":1,"bbox":[1024,276,166,22]}
+{"kind":"shape","slide":11,"id":"42","role":"card body","shapeType":"rect","bbox":[1024,312,160,252]}
+{"kind":"textbox","slide":11,"id":"42","role":"card body","text":"The current codebase defines dedicated views for home, venues, venue detail, login, register, OTP verification, bookings, and dashboard operations.","textChars":147,"textLines":1,"bbox":[1024,312,160,252]}
+{"kind":"shape","slide":12,"id":"2","role":"background","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":12,"id":"3","role":"side rail","shapeType":"rect","bbox":[996,0,284,720]}
+{"kind":"shape","slide":12,"id":"4","role":"side accent","shapeType":"rect","bbox":[968,0,12,720]}
+{"kind":"shape","slide":12,"id":"5","role":"top accent","shapeType":"rect","bbox":[0,0,178,12]}
+{"kind":"shape","slide":12,"id":"6","role":"section label","shapeType":"rect","bbox":[70,38,320,20]}
+{"kind":"textbox","slide":12,"id":"6","role":"section label","text":"DIAGRAMS","textChars":8,"textLines":1,"bbox":[70,38,320,20]}
+{"kind":"shape","slide":12,"id":"7","role":"page label","shapeType":"rect","bbox":[1128,38,80,20]}
+{"kind":"textbox","slide":12,"id":"7","role":"page label","text":"12 / 17","textChars":7,"textLines":1,"bbox":[1128,38,80,20]}
+{"kind":"shape","slide":12,"id":"8","role":"header rule","shapeType":"rect","bbox":[70,66,1140,2]}
+{"kind":"shape","slide":12,"id":"9","role":"footer band","shapeType":"rect","bbox":[0,680,1280,40]}
+{"kind":"shape","slide":12,"id":"10","role":"footer","shapeType":"rect","bbox":[70,693,320,14]}
+{"kind":"textbox","slide":12,"id":"10","role":"footer","text":"EMS2 | Major Project Presentation","textChars":33,"textLines":1,"bbox":[70,693,320,14]}
+{"kind":"shape","slide":12,"id":"11","role":"title","shapeType":"rect","bbox":[70,98,860,78]}
+{"kind":"textbox","slide":12,"id":"11","role":"title","text":"System Flow Diagram","textChars":19,"textLines":1,"bbox":[70,98,860,78]}
+{"kind":"shape","slide":12,"id":"12","role":"subtitle","shapeType":"rect","bbox":[70,184,860,52]}
+{"kind":"textbox","slide":12,"id":"12","role":"subtitle","text":"The overall workflow moves from discovery to authentication, booking, storage, and owner or admin review.","textChars":105,"textLines":1,"bbox":[70,184,860,52]}
+{"kind":"shape","slide":12,"id":"13","role":"flow 1 panel","shapeType":"roundRect","bbox":[78,340,96,88]}
+{"kind":"shape","slide":12,"id":"14","role":"flow 1 accent","shapeType":"rect","bbox":[78,340,8,88]}
+{"kind":"shape","slide":12,"id":"15","role":"flow label","shapeType":"rect","bbox":[92,366,68,34]}
+{"kind":"textbox","slide":12,"id":"15","role":"flow label","text":"Open website","textChars":12,"textLines":1,"bbox":[92,366,68,34]}
+{"kind":"shape","slide":12,"id":"16","role":"arrow line","shapeType":"rect","bbox":[174,382,14,4]}
+{"kind":"shape","slide":12,"id":"17","role":"arrow head","shapeType":"rightArrow","bbox":[168,374,20,20]}
+{"kind":"shape","slide":12,"id":"18","role":"flow 2 panel","shapeType":"roundRect","bbox":[188,340,96,88]}
+{"kind":"shape","slide":12,"id":"19","role":"flow 2 accent","shapeType":"rect","bbox":[188,340,8,88]}
+{"kind":"shape","slide":12,"id":"20","role":"flow label","shapeType":"rect","bbox":[202,366,68,34]}
+{"kind":"textbox","slide":12,"id":"20","role":"flow label","text":"Browse venues","textChars":13,"textLines":1,"bbox":[202,366,68,34]}
+{"kind":"shape","slide":12,"id":"21","role":"arrow line","shapeType":"rect","bbox":[284,382,14,4]}
+{"kind":"shape","slide":12,"id":"22","role":"arrow head","shapeType":"rightArrow","bbox":[278,374,20,20]}
+{"kind":"shape","slide":12,"id":"23","role":"flow 3 panel","shapeType":"roundRect","bbox":[298,340,96,88]}
+{"kind":"shape","slide":12,"id":"24","role":"flow 3 accent","shapeType":"rect","bbox":[298,340,8,88]}
+{"kind":"shape","slide":12,"id":"25","role":"flow label","shapeType":"rect","bbox":[312,366,68,34]}
+{"kind":"textbox","slide":12,"id":"25","role":"flow label","text":"View details","textChars":12,"textLines":1,"bbox":[312,366,68,34]}
+{"kind":"shape","slide":12,"id":"26","role":"arrow line","shapeType":"rect","bbox":[394,382,14,4]}
+{"kind":"shape","slide":12,"id":"27","role":"arrow head","shapeType":"rightArrow","bbox":[388,374,20,20]}
+{"kind":"shape","slide":12,"id":"28","role":"flow 4 panel","shapeType":"roundRect","bbox":[408,340,96,88]}
+{"kind":"shape","slide":12,"id":"29","role":"flow 4 accent","shapeType":"rect","bbox":[408,340,8,88]}
+{"kind":"shape","slide":12,"id":"30","role":"flow label","shapeType":"rect","bbox":[422,366,68,34]}
+{"kind":"textbox","slide":12,"id":"30","role":"flow label","text":"Select slot","textChars":11,"textLines":1,"bbox":[422,366,68,34]}
+{"kind":"shape","slide":12,"id":"31","role":"arrow line","shapeType":"rect","bbox":[504,382,14,4]}
+{"kind":"shape","slide":12,"id":"32","role":"arrow head","shapeType":"rightArrow","bbox":[498,374,20,20]}
+{"kind":"shape","slide":12,"id":"33","role":"flow 5 panel","shapeType":"roundRect","bbox":[518,340,96,88]}
+{"kind":"shape","slide":12,"id":"34","role":"flow 5 accent","shapeType":"rect","bbox":[518,340,8,88]}
+{"kind":"shape","slide":12,"id":"35","role":"flow label","shapeType":"rect","bbox":[532,366,68,34]}
+{"kind":"textbox","slide":12,"id":"35","role":"flow label","text":"OTP login","textChars":9,"textLines":1,"bbox":[532,366,68,34]}
+{"kind":"shape","slide":12,"id":"36","role":"arrow line","shapeType":"rect","bbox":[614,382,14,4]}
+{"kind":"shape","slide":12,"id":"37","role":"arrow head","shapeType":"rightArrow","bbox":[608,374,20,20]}
+{"kind":"shape","slide":12,"id":"38","role":"flow 6 panel","shapeType":"roundRect","bbox":[628,340,96,88]}
+{"kind":"shape","slide":12,"id":"39","role":"flow 6 accent","shapeType":"rect","bbox":[628,340,8,88]}
+{"kind":"shape","slide":12,"id":"40","role":"flow label","shapeType":"rect","bbox":[642,366,68,34]}
+{"kind":"textbox","slide":12,"id":"40","role":"flow label","text":"Create hold","textChars":11,"textLines":1,"bbox":[642,366,68,34]}
+{"kind":"shape","slide":12,"id":"41","role":"arrow line","shapeType":"rect","bbox":[724,382,14,4]}
+{"kind":"shape","slide":12,"id":"42","role":"arrow head","shapeType":"rightArrow","bbox":[718,374,20,20]}
+{"kind":"shape","slide":12,"id":"43","role":"flow 7 panel","shapeType":"roundRect","bbox":[738,340,96,88]}
+{"kind":"shape","slide":12,"id":"44","role":"flow 7 accent","shapeType":"rect","bbox":[738,340,8,88]}
+{"kind":"shape","slide":12,"id":"45","role":"flow label","shapeType":"rect","bbox":[752,366,68,34]}
+{"kind":"textbox","slide":12,"id":"45","role":"flow label","text":"Pending booking","textChars":15,"textLines":1,"bbox":[752,366,68,34]}
+{"kind":"shape","slide":12,"id":"46","role":"arrow line","shapeType":"rect","bbox":[834,382,14,4]}
+{"kind":"shape","slide":12,"id":"47","role":"arrow head","shapeType":"rightArrow","bbox":[828,374,20,20]}
+{"kind":"shape","slide":12,"id":"48","role":"flow 8 panel","shapeType":"roundRect","bbox":[848,340,96,88]}
+{"kind":"shape","slide":12,"id":"49","role":"flow 8 accent","shapeType":"rect","bbox":[848,340,8,88]}
+{"kind":"shape","slide":12,"id":"50","role":"flow label","shapeType":"rect","bbox":[862,366,68,34]}
+{"kind":"textbox","slide":12,"id":"50","role":"flow label","text":"Review decision","textChars":15,"textLines":1,"bbox":[862,366,68,34]}
+{"kind":"shape","slide":12,"id":"51","role":"flow note","shapeType":"roundRect","bbox":[218,492,588,98]}
+{"kind":"shape","slide":12,"id":"52","role":"flow note text","shapeType":"rect","bbox":[246,522,534,44]}
+{"kind":"textbox","slide":12,"id":"52","role":"flow note text","text":"If the user is not authenticated, the system redirects to login or registration, verifies OTP, and then resumes the booking workflow without losing the intended action.","textChars":168,"textLines":1,"bbox":[246,522,534,44]}
+{"kind":"shape","slide":13,"id":"2","role":"background","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":13,"id":"3","role":"side rail","shapeType":"rect","bbox":[996,0,284,720]}
+{"kind":"shape","slide":13,"id":"4","role":"side accent","shapeType":"rect","bbox":[968,0,12,720]}
+{"kind":"shape","slide":13,"id":"5","role":"top accent","shapeType":"rect","bbox":[0,0,178,12]}
+{"kind":"shape","slide":13,"id":"6","role":"section label","shapeType":"rect","bbox":[70,38,320,20]}
+{"kind":"textbox","slide":13,"id":"6","role":"section label","text":"DIAGRAMS","textChars":8,"textLines":1,"bbox":[70,38,320,20]}
+{"kind":"shape","slide":13,"id":"7","role":"page label","shapeType":"rect","bbox":[1128,38,80,20]}
+{"kind":"textbox","slide":13,"id":"7","role":"page label","text":"13 / 17","textChars":7,"textLines":1,"bbox":[1128,38,80,20]}
+{"kind":"shape","slide":13,"id":"8","role":"header rule","shapeType":"rect","bbox":[70,66,1140,2]}
+{"kind":"shape","slide":13,"id":"9","role":"footer band","shapeType":"rect","bbox":[0,680,1280,40]}
+{"kind":"shape","slide":13,"id":"10","role":"footer","shapeType":"rect","bbox":[70,693,320,14]}
+{"kind":"textbox","slide":13,"id":"10","role":"footer","text":"EMS2 | Major Project Presentation","textChars":33,"textLines":1,"bbox":[70,693,320,14]}
+{"kind":"shape","slide":13,"id":"11","role":"title","shapeType":"rect","bbox":[70,98,860,78]}
+{"kind":"textbox","slide":13,"id":"11","role":"title","text":"Use Case Diagram","textChars":16,"textLines":1,"bbox":[70,98,860,78]}
+{"kind":"shape","slide":13,"id":"12","role":"subtitle","shapeType":"rect","bbox":[70,184,860,52]}
+{"kind":"textbox","slide":13,"id":"12","role":"subtitle","text":"EMS2 is organized around customer, owner, and administrator actions with different responsibilities.","textChars":100,"textLines":1,"bbox":[70,184,860,52]}
+{"kind":"shape","slide":13,"id":"13","role":"Customer panel","shapeType":"roundRect","bbox":[86,280,188,190]}
+{"kind":"shape","slide":13,"id":"14","role":"Customer accent","shapeType":"rect","bbox":[86,280,8,190]}
+{"kind":"shape","slide":13,"id":"15","role":"node title","shapeType":"rect","bbox":[110,300,140,22]}
+{"kind":"textbox","slide":13,"id":"15","role":"node title","text":"Customer","textChars":8,"textLines":1,"bbox":[110,300,140,22]}
+{"kind":"shape","slide":13,"id":"16","role":"bullet","shapeType":"ellipse","bbox":[110,344,10,10]}
+{"kind":"shape","slide":13,"id":"17","role":"bullet text","shapeType":"rect","bbox":[134,336,116,28]}
+{"kind":"textbox","slide":13,"id":"17","role":"bullet text","text":"Browse venues","textChars":13,"textLines":1,"bbox":[134,336,116,28]}
+{"kind":"shape","slide":13,"id":"18","role":"bullet","shapeType":"ellipse","bbox":[110,372,10,10]}
+{"kind":"shape","slide":13,"id":"19","role":"bullet text","shapeType":"rect","bbox":[134,364,116,28]}
+{"kind":"textbox","slide":13,"id":"19","role":"bullet text","text":"View details","textChars":12,"textLines":1,"bbox":[134,364,116,28]}
+{"kind":"shape","slide":13,"id":"20","role":"bullet","shapeType":"ellipse","bbox":[110,400,10,10]}
+{"kind":"shape","slide":13,"id":"21","role":"bullet text","shapeType":"rect","bbox":[134,392,116,28]}
+{"kind":"textbox","slide":13,"id":"21","role":"bullet text","text":"Register / login","textChars":16,"textLines":1,"bbox":[134,392,116,28]}
+{"kind":"shape","slide":13,"id":"22","role":"bullet","shapeType":"ellipse","bbox":[110,428,10,10]}
+{"kind":"shape","slide":13,"id":"23","role":"bullet text","shapeType":"rect","bbox":[134,420,116,28]}
+{"kind":"textbox","slide":13,"id":"23","role":"bullet text","text":"Book venue","textChars":10,"textLines":1,"bbox":[134,420,116,28]}
+{"kind":"shape","slide":13,"id":"24","role":"bullet","shapeType":"ellipse","bbox":[110,456,10,10]}
+{"kind":"shape","slide":13,"id":"25","role":"bullet text","shapeType":"rect","bbox":[134,448,116,28]}
+{"kind":"textbox","slide":13,"id":"25","role":"bullet text","text":"View bookings","textChars":13,"textLines":1,"bbox":[134,448,116,28]}
+{"kind":"shape","slide":13,"id":"26","role":"bullet","shapeType":"ellipse","bbox":[110,484,10,10]}
+{"kind":"shape","slide":13,"id":"27","role":"bullet text","shapeType":"rect","bbox":[134,476,116,28]}
+{"kind":"textbox","slide":13,"id":"27","role":"bullet text","text":"Submit review","textChars":13,"textLines":1,"bbox":[134,476,116,28]}
+{"kind":"shape","slide":13,"id":"28","role":"Owner panel","shapeType":"roundRect","bbox":[382,280,188,168]}
+{"kind":"shape","slide":13,"id":"29","role":"Owner accent","shapeType":"rect","bbox":[382,280,8,168]}
+{"kind":"shape","slide":13,"id":"30","role":"node title","shapeType":"rect","bbox":[406,300,140,22]}
+{"kind":"textbox","slide":13,"id":"30","role":"node title","text":"Owner","textChars":5,"textLines":1,"bbox":[406,300,140,22]}
+{"kind":"shape","slide":13,"id":"31","role":"bullet","shapeType":"ellipse","bbox":[406,344,10,10]}
+{"kind":"shape","slide":13,"id":"32","role":"bullet text","shapeType":"rect","bbox":[430,336,116,28]}
+{"kind":"textbox","slide":13,"id":"32","role":"bullet text","text":"Manage venues","textChars":13,"textLines":1,"bbox":[430,336,116,28]}
+{"kind":"shape","slide":13,"id":"33","role":"bullet","shapeType":"ellipse","bbox":[406,372,10,10]}
+{"kind":"shape","slide":13,"id":"34","role":"bullet text","shapeType":"rect","bbox":[430,364,116,28]}
+{"kind":"textbox","slide":13,"id":"34","role":"bullet text","text":"Update slots","textChars":12,"textLines":1,"bbox":[430,364,116,28]}
+{"kind":"shape","slide":13,"id":"35","role":"bullet","shapeType":"ellipse","bbox":[406,400,10,10]}
+{"kind":"shape","slide":13,"id":"36","role":"bullet text","shapeType":"rect","bbox":[430,392,116,28]}
+{"kind":"textbox","slide":13,"id":"36","role":"bullet text","text":"Review bookings","textChars":15,"textLines":1,"bbox":[430,392,116,28]}
+{"kind":"shape","slide":13,"id":"37","role":"Administrator panel","shapeType":"roundRect","bbox":[678,280,188,190]}
+{"kind":"shape","slide":13,"id":"38","role":"Administrator accent","shapeType":"rect","bbox":[678,280,8,190]}
+{"kind":"shape","slide":13,"id":"39","role":"node title","shapeType":"rect","bbox":[702,300,140,22]}
+{"kind":"textbox","slide":13,"id":"39","role":"node title","text":"Administrator","textChars":13,"textLines":1,"bbox":[702,300,140,22]}
+{"kind":"shape","slide":13,"id":"40","role":"bullet","shapeType":"ellipse","bbox":[702,344,10,10]}
+{"kind":"shape","slide":13,"id":"41","role":"bullet text","shapeType":"rect","bbox":[726,336,116,28]}
+{"kind":"textbox","slide":13,"id":"41","role":"bullet text","text":"Manage users","textChars":12,"textLines":1,"bbox":[726,336,116,28]}
+{"kind":"shape","slide":13,"id":"42","role":"bullet","shapeType":"ellipse","bbox":[702,372,10,10]}
+{"kind":"shape","slide":13,"id":"43","role":"bullet text","shapeType":"rect","bbox":[726,364,116,28]}
+{"kind":"textbox","slide":13,"id":"43","role":"bullet text","text":"Change roles","textChars":12,"textLines":1,"bbox":[726,364,116,28]}
+{"kind":"shape","slide":13,"id":"44","role":"bullet","shapeType":"ellipse","bbox":[702,400,10,10]}
+{"kind":"shape","slide":13,"id":"45","role":"bullet text","shapeType":"rect","bbox":[726,392,116,28]}
+{"kind":"textbox","slide":13,"id":"45","role":"bullet text","text":"Toggle status","textChars":13,"textLines":1,"bbox":[726,392,116,28]}
+{"kind":"shape","slide":13,"id":"46","role":"bullet","shapeType":"ellipse","bbox":[702,428,10,10]}
+{"kind":"shape","slide":13,"id":"47","role":"bullet text","shapeType":"rect","bbox":[726,420,116,28]}
+{"kind":"textbox","slide":13,"id":"47","role":"bullet text","text":"Monitor bookings","textChars":16,"textLines":1,"bbox":[726,420,116,28]}
+{"kind":"shape","slide":13,"id":"48","role":"Shared platform panel","shapeType":"roundRect","bbox":[972,316,188,130]}
+{"kind":"shape","slide":13,"id":"49","role":"Shared platform accent","shapeType":"rect","bbox":[972,316,8,130]}
+{"kind":"shape","slide":13,"id":"50","role":"node title","shapeType":"rect","bbox":[996,336,140,22]}
+{"kind":"textbox","slide":13,"id":"50","role":"node title","text":"Shared platform","textChars":15,"textLines":1,"bbox":[996,336,140,22]}
+{"kind":"shape","slide":13,"id":"51","role":"bullet","shapeType":"ellipse","bbox":[996,380,10,10]}
+{"kind":"shape","slide":13,"id":"52","role":"bullet text","shapeType":"rect","bbox":[1020,372,116,28]}
+{"kind":"textbox","slide":13,"id":"52","role":"bullet text","text":"Dashboard access","textChars":16,"textLines":1,"bbox":[1020,372,116,28]}
+{"kind":"shape","slide":13,"id":"53","role":"bullet","shapeType":"ellipse","bbox":[996,408,10,10]}
+{"kind":"shape","slide":13,"id":"54","role":"bullet text","shapeType":"rect","bbox":[1020,400,116,28]}
+{"kind":"textbox","slide":13,"id":"54","role":"bullet text","text":"Operational visibility","textChars":22,"textLines":1,"bbox":[1020,400,116,28]}
+{"kind":"shape","slide":13,"id":"55","role":"arrow line","shapeType":"rect","bbox":[274,354,108,4]}
+{"kind":"shape","slide":13,"id":"56","role":"arrow head","shapeType":"rightArrow","bbox":[362,346,20,20]}
+{"kind":"shape","slide":13,"id":"57","role":"arrow line","shapeType":"rect","bbox":[570,354,108,4]}
+{"kind":"shape","slide":13,"id":"58","role":"arrow head","shapeType":"rightArrow","bbox":[658,346,20,20]}
+{"kind":"shape","slide":13,"id":"59","role":"arrow line","shapeType":"rect","bbox":[866,354,106,4]}
+{"kind":"shape","slide":13,"id":"60","role":"arrow head","shapeType":"rightArrow","bbox":[952,346,20,20]}
+{"kind":"shape","slide":13,"id":"61","role":"use case note","shapeType":"roundRect","bbox":[206,520,654,84]}
+{"kind":"shape","slide":13,"id":"62","role":"use case note text","shapeType":"rect","bbox":[236,550,594,18]}
+{"kind":"textbox","slide":13,"id":"62","role":"use case note text","text":"This role-based design keeps user journeys focused while still preserving centralized platform control.","textChars":103,"textLines":1,"bbox":[236,550,594,18]}
+{"kind":"shape","slide":14,"id":"2","role":"background","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":14,"id":"3","role":"side rail","shapeType":"rect","bbox":[996,0,284,720]}
+{"kind":"shape","slide":14,"id":"4","role":"side accent","shapeType":"rect","bbox":[968,0,12,720]}
+{"kind":"shape","slide":14,"id":"5","role":"top accent","shapeType":"rect","bbox":[0,0,178,12]}
+{"kind":"shape","slide":14,"id":"6","role":"section label","shapeType":"rect","bbox":[70,38,320,20]}
+{"kind":"textbox","slide":14,"id":"6","role":"section label","text":"DIAGRAMS","textChars":8,"textLines":1,"bbox":[70,38,320,20]}
+{"kind":"shape","slide":14,"id":"7","role":"page label","shapeType":"rect","bbox":[1128,38,80,20]}
+{"kind":"textbox","slide":14,"id":"7","role":"page label","text":"14 / 17","textChars":7,"textLines":1,"bbox":[1128,38,80,20]}
+{"kind":"shape","slide":14,"id":"8","role":"header rule","shapeType":"rect","bbox":[70,66,1140,2]}
+{"kind":"shape","slide":14,"id":"9","role":"footer band","shapeType":"rect","bbox":[0,680,1280,40]}
+{"kind":"shape","slide":14,"id":"10","role":"footer","shapeType":"rect","bbox":[70,693,320,14]}
+{"kind":"textbox","slide":14,"id":"10","role":"footer","text":"EMS2 | Major Project Presentation","textChars":33,"textLines":1,"bbox":[70,693,320,14]}
+{"kind":"shape","slide":14,"id":"11","role":"title","shapeType":"rect","bbox":[70,98,860,78]}
+{"kind":"textbox","slide":14,"id":"11","role":"title","text":"Class and Design View","textChars":21,"textLines":1,"bbox":[70,98,860,78]}
+{"kind":"shape","slide":14,"id":"12","role":"subtitle","shapeType":"rect","bbox":[70,184,860,52]}
+{"kind":"textbox","slide":14,"id":"12","role":"subtitle","text":"The PHP application follows a modular structure using core classes, controllers, repositories, and services.","textChars":108,"textLines":1,"bbox":[70,184,860,52]}
+{"kind":"shape","slide":14,"id":"13","role":"Core layer panel","shapeType":"roundRect","bbox":[88,266,210,170]}
+{"kind":"shape","slide":14,"id":"14","role":"Core layer accent","shapeType":"rect","bbox":[88,266,8,170]}
+{"kind":"shape","slide":14,"id":"15","role":"node title","shapeType":"rect","bbox":[112,286,162,22]}
+{"kind":"textbox","slide":14,"id":"15","role":"node title","text":"Core layer","textChars":10,"textLines":1,"bbox":[112,286,162,22]}
+{"kind":"shape","slide":14,"id":"16","role":"bullet","shapeType":"ellipse","bbox":[112,330,10,10]}
+{"kind":"shape","slide":14,"id":"17","role":"bullet text","shapeType":"rect","bbox":[136,322,138,28]}
+{"kind":"textbox","slide":14,"id":"17","role":"bullet text","text":"Config","textChars":6,"textLines":1,"bbox":[136,322,138,28]}
+{"kind":"shape","slide":14,"id":"18","role":"bullet","shapeType":"ellipse","bbox":[112,358,10,10]}
+{"kind":"shape","slide":14,"id":"19","role":"bullet text","shapeType":"rect","bbox":[136,350,138,28]}
+{"kind":"textbox","slide":14,"id":"19","role":"bullet text","text":"Database","textChars":8,"textLines":1,"bbox":[136,350,138,28]}
+{"kind":"shape","slide":14,"id":"20","role":"bullet","shapeType":"ellipse","bbox":[112,386,10,10]}
+{"kind":"shape","slide":14,"id":"21","role":"bullet text","shapeType":"rect","bbox":[136,378,138,28]}
+{"kind":"textbox","slide":14,"id":"21","role":"bullet text","text":"Env","textChars":3,"textLines":1,"bbox":[136,378,138,28]}
+{"kind":"shape","slide":14,"id":"22","role":"bullet","shapeType":"ellipse","bbox":[112,414,10,10]}
+{"kind":"shape","slide":14,"id":"23","role":"bullet text","shapeType":"rect","bbox":[136,406,138,28]}
+{"kind":"textbox","slide":14,"id":"23","role":"bullet text","text":"Router","textChars":6,"textLines":1,"bbox":[136,406,138,28]}
+{"kind":"shape","slide":14,"id":"24","role":"bullet","shapeType":"ellipse","bbox":[112,442,10,10]}
+{"kind":"shape","slide":14,"id":"25","role":"bullet text","shapeType":"rect","bbox":[136,434,138,28]}
+{"kind":"textbox","slide":14,"id":"25","role":"bullet text","text":"Controller","textChars":10,"textLines":1,"bbox":[136,434,138,28]}
+{"kind":"shape","slide":14,"id":"26","role":"Controllers panel","shapeType":"roundRect","bbox":[358,242,236,220]}
+{"kind":"shape","slide":14,"id":"27","role":"Controllers accent","shapeType":"rect","bbox":[358,242,8,220]}
+{"kind":"shape","slide":14,"id":"28","role":"node title","shapeType":"rect","bbox":[382,262,188,22]}
+{"kind":"textbox","slide":14,"id":"28","role":"node title","text":"Controllers","textChars":11,"textLines":1,"bbox":[382,262,188,22]}
+{"kind":"shape","slide":14,"id":"29","role":"bullet","shapeType":"ellipse","bbox":[382,306,10,10]}
+{"kind":"shape","slide":14,"id":"30","role":"bullet text","shapeType":"rect","bbox":[406,298,164,28]}
+{"kind":"textbox","slide":14,"id":"30","role":"bullet text","text":"AuthController","textChars":14,"textLines":1,"bbox":[406,298,164,28]}
+{"kind":"shape","slide":14,"id":"31","role":"bullet","shapeType":"ellipse","bbox":[382,334,10,10]}
+{"kind":"shape","slide":14,"id":"32","role":"bullet text","shapeType":"rect","bbox":[406,326,164,28]}
+{"kind":"textbox","slide":14,"id":"32","role":"bullet text","text":"BookingsController","textChars":18,"textLines":1,"bbox":[406,326,164,28]}
+{"kind":"shape","slide":14,"id":"33","role":"bullet","shapeType":"ellipse","bbox":[382,362,10,10]}
+{"kind":"shape","slide":14,"id":"34","role":"bullet text","shapeType":"rect","bbox":[406,354,164,28]}
+{"kind":"textbox","slide":14,"id":"34","role":"bullet text","text":"DashboardController","textChars":19,"textLines":1,"bbox":[406,354,164,28]}
+{"kind":"shape","slide":14,"id":"35","role":"bullet","shapeType":"ellipse","bbox":[382,390,10,10]}
+{"kind":"shape","slide":14,"id":"36","role":"bullet text","shapeType":"rect","bbox":[406,382,164,28]}
+{"kind":"textbox","slide":14,"id":"36","role":"bullet text","text":"HomeController","textChars":14,"textLines":1,"bbox":[406,382,164,28]}
+{"kind":"shape","slide":14,"id":"37","role":"bullet","shapeType":"ellipse","bbox":[382,418,10,10]}
+{"kind":"shape","slide":14,"id":"38","role":"bullet text","shapeType":"rect","bbox":[406,410,164,28]}
+{"kind":"textbox","slide":14,"id":"38","role":"bullet text","text":"PaymentController","textChars":17,"textLines":1,"bbox":[406,410,164,28]}
+{"kind":"shape","slide":14,"id":"39","role":"Repositories panel","shapeType":"roundRect","bbox":[644,254,238,196]}
+{"kind":"shape","slide":14,"id":"40","role":"Repositories accent","shapeType":"rect","bbox":[644,254,8,196]}
+{"kind":"shape","slide":14,"id":"41","role":"node title","shapeType":"rect","bbox":[668,274,190,22]}
+{"kind":"textbox","slide":14,"id":"41","role":"node title","text":"Repositories","textChars":12,"textLines":1,"bbox":[668,274,190,22]}
+{"kind":"shape","slide":14,"id":"42","role":"bullet","shapeType":"ellipse","bbox":[668,318,10,10]}
+{"kind":"shape","slide":14,"id":"43","role":"bullet text","shapeType":"rect","bbox":[692,310,166,28]}
+{"kind":"textbox","slide":14,"id":"43","role":"bullet text","text":"UserRepository","textChars":14,"textLines":1,"bbox":[692,310,166,28]}
+{"kind":"shape","slide":14,"id":"44","role":"bullet","shapeType":"ellipse","bbox":[668,346,10,10]}
+{"kind":"shape","slide":14,"id":"45","role":"bullet text","shapeType":"rect","bbox":[692,338,166,28]}
+{"kind":"textbox","slide":14,"id":"45","role":"bullet text","text":"VenueRepository","textChars":15,"textLines":1,"bbox":[692,338,166,28]}
+{"kind":"shape","slide":14,"id":"46","role":"bullet","shapeType":"ellipse","bbox":[668,374,10,10]}
+{"kind":"shape","slide":14,"id":"47","role":"bullet text","shapeType":"rect","bbox":[692,366,166,28]}
+{"kind":"textbox","slide":14,"id":"47","role":"bullet text","text":"BookingRepository","textChars":17,"textLines":1,"bbox":[692,366,166,28]}
+{"kind":"shape","slide":14,"id":"48","role":"bullet","shapeType":"ellipse","bbox":[668,402,10,10]}
+{"kind":"shape","slide":14,"id":"49","role":"bullet text","shapeType":"rect","bbox":[692,394,166,28]}
+{"kind":"textbox","slide":14,"id":"49","role":"bullet text","text":"WebhookEventRepository","textChars":22,"textLines":1,"bbox":[692,394,166,28]}
+{"kind":"shape","slide":14,"id":"50","role":"Services panel","shapeType":"roundRect","bbox":[946,228,236,244]}
+{"kind":"shape","slide":14,"id":"51","role":"Services accent","shapeType":"rect","bbox":[946,228,8,244]}
+{"kind":"shape","slide":14,"id":"52","role":"node title","shapeType":"rect","bbox":[970,248,188,22]}
+{"kind":"textbox","slide":14,"id":"52","role":"node title","text":"Services","textChars":8,"textLines":1,"bbox":[970,248,188,22]}
+{"kind":"shape","slide":14,"id":"53","role":"bullet","shapeType":"ellipse","bbox":[970,292,10,10]}
+{"kind":"shape","slide":14,"id":"54","role":"bullet text","shapeType":"rect","bbox":[994,284,164,28]}
+{"kind":"textbox","slide":14,"id":"54","role":"bullet text","text":"MailOtpService","textChars":14,"textLines":1,"bbox":[994,284,164,28]}
+{"kind":"shape","slide":14,"id":"55","role":"bullet","shapeType":"ellipse","bbox":[970,320,10,10]}
+{"kind":"shape","slide":14,"id":"56","role":"bullet text","shapeType":"rect","bbox":[994,312,164,28]}
+{"kind":"textbox","slide":14,"id":"56","role":"bullet text","text":"VenueCatalogService","textChars":19,"textLines":1,"bbox":[994,312,164,28]}
+{"kind":"shape","slide":14,"id":"57","role":"bullet","shapeType":"ellipse","bbox":[970,348,10,10]}
+{"kind":"shape","slide":14,"id":"58","role":"bullet text","shapeType":"rect","bbox":[994,340,164,28]}
+{"kind":"textbox","slide":14,"id":"58","role":"bullet text","text":"RazorpayWebhookService","textChars":22,"textLines":1,"bbox":[994,340,164,28]}
+{"kind":"shape","slide":14,"id":"59","role":"bullet","shapeType":"ellipse","bbox":[970,376,10,10]}
+{"kind":"shape","slide":14,"id":"60","role":"bullet text","shapeType":"rect","bbox":[994,368,164,28]}
+{"kind":"textbox","slide":14,"id":"60","role":"bullet text","text":"TwilioService","textChars":13,"textLines":1,"bbox":[994,368,164,28]}
+{"kind":"shape","slide":14,"id":"61","role":"bullet","shapeType":"ellipse","bbox":[970,404,10,10]}
+{"kind":"shape","slide":14,"id":"62","role":"bullet text","shapeType":"rect","bbox":[994,396,164,28]}
+{"kind":"textbox","slide":14,"id":"62","role":"bullet text","text":"BookingValidatorClient","textChars":22,"textLines":1,"bbox":[994,396,164,28]}
+{"kind":"shape","slide":14,"id":"63","role":"bullet","shapeType":"ellipse","bbox":[970,432,10,10]}
+{"kind":"shape","slide":14,"id":"64","role":"bullet text","shapeType":"rect","bbox":[994,424,164,28]}
+{"kind":"textbox","slide":14,"id":"64","role":"bullet text","text":"GoogleOAuthService","textChars":18,"textLines":1,"bbox":[994,424,164,28]}
+{"kind":"shape","slide":14,"id":"65","role":"arrow line","shapeType":"rect","bbox":[298,350,60,4]}
+{"kind":"shape","slide":14,"id":"66","role":"arrow head","shapeType":"rightArrow","bbox":[338,342,20,20]}
+{"kind":"shape","slide":14,"id":"67","role":"arrow line","shapeType":"rect","bbox":[594,350,50,4]}
+{"kind":"shape","slide":14,"id":"68","role":"arrow head","shapeType":"rightArrow","bbox":[624,342,20,20]}
+{"kind":"shape","slide":14,"id":"69","role":"arrow line","shapeType":"rect","bbox":[882,350,64,4]}
+{"kind":"shape","slide":14,"id":"70","role":"arrow head","shapeType":"rightArrow","bbox":[926,342,20,20]}
+{"kind":"shape","slide":14,"id":"71","role":"design note","shapeType":"roundRect","bbox":[236,532,612,72]}
+{"kind":"shape","slide":14,"id":"72","role":"design note text","shapeType":"rect","bbox":[266,560,552,18]}
+{"kind":"textbox","slide":14,"id":"72","role":"design note text","text":"This separation of responsibilities improves maintainability and keeps request flow, data access, and integration logic organized.","textChars":130,"textLines":1,"bbox":[266,560,552,18]}
+{"kind":"shape","slide":15,"id":"2","role":"background","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":15,"id":"3","role":"side rail","shapeType":"rect","bbox":[996,0,284,720]}
+{"kind":"shape","slide":15,"id":"4","role":"side accent","shapeType":"rect","bbox":[968,0,12,720]}
+{"kind":"shape","slide":15,"id":"5","role":"top accent","shapeType":"rect","bbox":[0,0,178,12]}
+{"kind":"shape","slide":15,"id":"6","role":"section label","shapeType":"rect","bbox":[70,38,320,20]}
+{"kind":"textbox","slide":15,"id":"6","role":"section label","text":"DIAGRAMS","textChars":8,"textLines":1,"bbox":[70,38,320,20]}
+{"kind":"shape","slide":15,"id":"7","role":"page label","shapeType":"rect","bbox":[1128,38,80,20]}
+{"kind":"textbox","slide":15,"id":"7","role":"page label","text":"15 / 17","textChars":7,"textLines":1,"bbox":[1128,38,80,20]}
+{"kind":"shape","slide":15,"id":"8","role":"header rule","shapeType":"rect","bbox":[70,66,1140,2]}
+{"kind":"shape","slide":15,"id":"9","role":"footer band","shapeType":"rect","bbox":[0,680,1280,40]}
+{"kind":"shape","slide":15,"id":"10","role":"footer","shapeType":"rect","bbox":[70,693,320,14]}
+{"kind":"textbox","slide":15,"id":"10","role":"footer","text":"EMS2 | Major Project Presentation","textChars":33,"textLines":1,"bbox":[70,693,320,14]}
+{"kind":"shape","slide":15,"id":"11","role":"title","shapeType":"rect","bbox":[70,98,860,78]}
+{"kind":"textbox","slide":15,"id":"11","role":"title","text":"Sequence and Activity View","textChars":26,"textLines":1,"bbox":[70,98,860,78]}
+{"kind":"shape","slide":15,"id":"12","role":"subtitle","shapeType":"rect","bbox":[70,184,860,52]}
+{"kind":"textbox","slide":15,"id":"12","role":"subtitle","text":"The booking workflow coordinates UI, controller logic, repositories, and the database in an ordered sequence.","textChars":109,"textLines":1,"bbox":[70,184,860,52]}
+{"kind":"shape","slide":15,"id":"13","role":"sequence label","shapeType":"rect","bbox":[84,260,120,20]}
+{"kind":"textbox","slide":15,"id":"13","role":"sequence label","text":"Customer","textChars":8,"textLines":1,"bbox":[84,260,120,20]}
+{"kind":"shape","slide":15,"id":"14","role":"lifeline","shapeType":"rect","bbox":[136,292,2,250]}
+{"kind":"shape","slide":15,"id":"15","role":"sequence label","shapeType":"rect","bbox":[252,260,120,20]}
+{"kind":"textbox","slide":15,"id":"15","role":"sequence label","text":"Web UI","textChars":6,"textLines":1,"bbox":[252,260,120,20]}
+{"kind":"shape","slide":15,"id":"16","role":"lifeline","shapeType":"rect","bbox":[304,292,2,250]}
+{"kind":"shape","slide":15,"id":"17","role":"sequence label","shapeType":"rect","bbox":[420,260,120,20]}
+{"kind":"textbox","slide":15,"id":"17","role":"sequence label","text":"Controller","textChars":10,"textLines":1,"bbox":[420,260,120,20]}
+{"kind":"shape","slide":15,"id":"18","role":"lifeline","shapeType":"rect","bbox":[472,292,2,250]}
+{"kind":"shape","slide":15,"id":"19","role":"sequence label","shapeType":"rect","bbox":[588,260,120,20]}
+{"kind":"textbox","slide":15,"id":"19","role":"sequence label","text":"Repository","textChars":10,"textLines":1,"bbox":[588,260,120,20]}
+{"kind":"shape","slide":15,"id":"20","role":"lifeline","shapeType":"rect","bbox":[640,292,2,250]}
+{"kind":"shape","slide":15,"id":"21","role":"sequence label","shapeType":"rect","bbox":[756,260,120,20]}
+{"kind":"textbox","slide":15,"id":"21","role":"sequence label","text":"Database","textChars":8,"textLines":1,"bbox":[756,260,120,20]}
+{"kind":"shape","slide":15,"id":"22","role":"lifeline","shapeType":"rect","bbox":[808,292,2,250]}
+{"kind":"shape","slide":15,"id":"23","role":"arrow line","shapeType":"rect","bbox":[138,320,114,4]}
+{"kind":"shape","slide":15,"id":"24","role":"arrow head","shapeType":"rightArrow","bbox":[232,312,20,20]}
+{"kind":"shape","slide":15,"id":"25","role":"sequence step","shapeType":"rect","bbox":[144,300,104,16]}
+{"kind":"textbox","slide":15,"id":"25","role":"sequence step","text":"Select venue and slot","textChars":21,"textLines":1,"bbox":[144,300,104,16]}
+{"kind":"shape","slide":15,"id":"26","role":"arrow line","shapeType":"rect","bbox":[306,364,114,4]}
+{"kind":"shape","slide":15,"id":"27","role":"arrow head","shapeType":"rightArrow","bbox":[400,356,20,20]}
+{"kind":"shape","slide":15,"id":"28","role":"sequence step","shapeType":"rect","bbox":[312,344,104,16]}
+{"kind":"textbox","slide":15,"id":"28","role":"sequence step","text":"POST booking request","textChars":20,"textLines":1,"bbox":[312,344,104,16]}
+{"kind":"shape","slide":15,"id":"29","role":"arrow line","shapeType":"rect","bbox":[474,408,114,4]}
+{"kind":"shape","slide":15,"id":"30","role":"arrow head","shapeType":"rightArrow","bbox":[568,400,20,20]}
+{"kind":"shape","slide":15,"id":"31","role":"sequence step","shapeType":"rect","bbox":[480,388,104,16]}
+{"kind":"textbox","slide":15,"id":"31","role":"sequence step","text":"Resolve slot and validate","textChars":25,"textLines":1,"bbox":[480,388,104,16]}
+{"kind":"shape","slide":15,"id":"32","role":"arrow line","shapeType":"rect","bbox":[642,452,114,4]}
+{"kind":"shape","slide":15,"id":"33","role":"arrow head","shapeType":"rightArrow","bbox":[736,444,20,20]}
+{"kind":"shape","slide":15,"id":"34","role":"sequence step","shapeType":"rect","bbox":[648,432,104,16]}
+{"kind":"textbox","slide":15,"id":"34","role":"sequence step","text":"Read / update records","textChars":21,"textLines":1,"bbox":[648,432,104,16]}
+{"kind":"shape","slide":15,"id":"35","role":"arrow line","shapeType":"rect","bbox":[810,496,-222,4]}
+{"kind":"shape","slide":15,"id":"36","role":"arrow head","shapeType":"rightArrow","bbox":[568,488,20,20]}
+{"kind":"shape","slide":15,"id":"37","role":"sequence step","shapeType":"rect","bbox":[816,476,100,16]}
+{"kind":"textbox","slide":15,"id":"37","role":"sequence step","text":"Return slot state","textChars":17,"textLines":1,"bbox":[816,476,100,16]}
+{"kind":"shape","slide":15,"id":"38","role":"arrow line","shapeType":"rect","bbox":[642,540,-222,4]}
+{"kind":"shape","slide":15,"id":"39","role":"arrow head","shapeType":"rightArrow","bbox":[400,532,20,20]}
+{"kind":"shape","slide":15,"id":"40","role":"sequence step","shapeType":"rect","bbox":[648,520,100,16]}
+{"kind":"textbox","slide":15,"id":"40","role":"sequence step","text":"Booking saved","textChars":13,"textLines":1,"bbox":[648,520,100,16]}
+{"kind":"shape","slide":15,"id":"41","role":"arrow line","shapeType":"rect","bbox":[474,584,-222,4]}
+{"kind":"shape","slide":15,"id":"42","role":"arrow head","shapeType":"rightArrow","bbox":[232,576,20,20]}
+{"kind":"shape","slide":15,"id":"43","role":"sequence step","shapeType":"rect","bbox":[480,564,100,16]}
+{"kind":"textbox","slide":15,"id":"43","role":"sequence step","text":"Show payment step","textChars":17,"textLines":1,"bbox":[480,564,100,16]}
+{"kind":"shape","slide":15,"id":"44","role":"activity note","shapeType":"roundRect","bbox":[934,274,228,258]}
+{"kind":"shape","slide":15,"id":"45","role":"activity text","shapeType":"rect","bbox":[960,306,174,176]}
+{"kind":"textbox","slide":15,"id":"45","role":"activity text","text":"Activity logic:\n1. Browse venues\n2. Choose slot\n3. Authenticate\n4. Validate availability\n5. Create hold\n6. Create booking\n7. Review outcome","textChars":139,"textLines":8,"bbox":[960,306,174,176]}
+{"kind":"shape","slide":16,"id":"2","role":"background","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":16,"id":"3","role":"side rail","shapeType":"rect","bbox":[996,0,284,720]}
+{"kind":"shape","slide":16,"id":"4","role":"side accent","shapeType":"rect","bbox":[968,0,12,720]}
+{"kind":"shape","slide":16,"id":"5","role":"top accent","shapeType":"rect","bbox":[0,0,178,12]}
+{"kind":"shape","slide":16,"id":"6","role":"section label","shapeType":"rect","bbox":[70,38,320,20]}
+{"kind":"textbox","slide":16,"id":"6","role":"section label","text":"DIAGRAMS","textChars":8,"textLines":1,"bbox":[70,38,320,20]}
+{"kind":"shape","slide":16,"id":"7","role":"page label","shapeType":"rect","bbox":[1128,38,80,20]}
+{"kind":"textbox","slide":16,"id":"7","role":"page label","text":"16 / 17","textChars":7,"textLines":1,"bbox":[1128,38,80,20]}
+{"kind":"shape","slide":16,"id":"8","role":"header rule","shapeType":"rect","bbox":[70,66,1140,2]}
+{"kind":"shape","slide":16,"id":"9","role":"footer band","shapeType":"rect","bbox":[0,680,1280,40]}
+{"kind":"shape","slide":16,"id":"10","role":"footer","shapeType":"rect","bbox":[70,693,320,14]}
+{"kind":"textbox","slide":16,"id":"10","role":"footer","text":"EMS2 | Major Project Presentation","textChars":33,"textLines":1,"bbox":[70,693,320,14]}
+{"kind":"shape","slide":16,"id":"11","role":"title","shapeType":"rect","bbox":[70,98,860,78]}
+{"kind":"textbox","slide":16,"id":"11","role":"title","text":"Deployment Diagram","textChars":18,"textLines":1,"bbox":[70,98,860,78]}
+{"kind":"shape","slide":16,"id":"12","role":"subtitle","shapeType":"rect","bbox":[70,184,860,52]}
+{"kind":"textbox","slide":16,"id":"12","role":"subtitle","text":"The deployed structure connects a client browser to the PHP web app, the database, and external support services.","textChars":113,"textLines":1,"bbox":[70,184,860,52]}
+{"kind":"shape","slide":16,"id":"13","role":"Client browser panel","shapeType":"roundRect","bbox":[88,318,178,122]}
+{"kind":"shape","slide":16,"id":"14","role":"Client browser accent","shapeType":"rect","bbox":[88,318,8,122]}
+{"kind":"shape","slide":16,"id":"15","role":"node title","shapeType":"rect","bbox":[112,338,130,22]}
+{"kind":"textbox","slide":16,"id":"15","role":"node title","text":"Client browser","textChars":14,"textLines":1,"bbox":[112,338,130,22]}
+{"kind":"shape","slide":16,"id":"16","role":"bullet","shapeType":"ellipse","bbox":[112,382,10,10]}
+{"kind":"shape","slide":16,"id":"17","role":"bullet text","shapeType":"rect","bbox":[136,374,106,28]}
+{"kind":"textbox","slide":16,"id":"17","role":"bullet text","text":"Home, venues, booking, dashboard","textChars":32,"textLines":1,"bbox":[136,374,106,28]}
+{"kind":"shape","slide":16,"id":"18","role":"PHP web application panel","shapeType":"roundRect","bbox":[372,286,236,184]}
+{"kind":"shape","slide":16,"id":"19","role":"PHP web application accent","shapeType":"rect","bbox":[372,286,8,184]}
+{"kind":"shape","slide":16,"id":"20","role":"node title","shapeType":"rect","bbox":[396,306,188,22]}
+{"kind":"textbox","slide":16,"id":"20","role":"node title","text":"PHP web application","textChars":19,"textLines":1,"bbox":[396,306,188,22]}
+{"kind":"shape","slide":16,"id":"21","role":"bullet","shapeType":"ellipse","bbox":[396,350,10,10]}
+{"kind":"shape","slide":16,"id":"22","role":"bullet text","shapeType":"rect","bbox":[420,342,164,28]}
+{"kind":"textbox","slide":16,"id":"22","role":"bullet text","text":"Apache / XAMPP","textChars":14,"textLines":1,"bbox":[420,342,164,28]}
+{"kind":"shape","slide":16,"id":"23","role":"bullet","shapeType":"ellipse","bbox":[396,378,10,10]}
+{"kind":"shape","slide":16,"id":"24","role":"bullet text","shapeType":"rect","bbox":[420,370,164,28]}
+{"kind":"textbox","slide":16,"id":"24","role":"bullet text","text":"Routing and sessions","textChars":20,"textLines":1,"bbox":[420,370,164,28]}
+{"kind":"shape","slide":16,"id":"25","role":"bullet","shapeType":"ellipse","bbox":[396,406,10,10]}
+{"kind":"shape","slide":16,"id":"26","role":"bullet text","shapeType":"rect","bbox":[420,398,164,28]}
+{"kind":"textbox","slide":16,"id":"26","role":"bullet text","text":"Business logic","textChars":14,"textLines":1,"bbox":[420,398,164,28]}
+{"kind":"shape","slide":16,"id":"27","role":"MySQL database panel","shapeType":"roundRect","bbox":[714,318,178,122]}
+{"kind":"shape","slide":16,"id":"28","role":"MySQL database accent","shapeType":"rect","bbox":[714,318,8,122]}
+{"kind":"shape","slide":16,"id":"29","role":"node title","shapeType":"rect","bbox":[738,338,130,22]}
+{"kind":"textbox","slide":16,"id":"29","role":"node title","text":"MySQL database","textChars":14,"textLines":1,"bbox":[738,338,130,22]}
+{"kind":"shape","slide":16,"id":"30","role":"bullet","shapeType":"ellipse","bbox":[738,382,10,10]}
+{"kind":"shape","slide":16,"id":"31","role":"bullet text","shapeType":"rect","bbox":[762,374,106,28]}
+{"kind":"textbox","slide":16,"id":"31","role":"bullet text","text":"Users, venues, slots, bookings","textChars":30,"textLines":1,"bbox":[762,374,106,28]}
+{"kind":"shape","slide":16,"id":"32","role":"SMTP / mail panel","shapeType":"roundRect","bbox":[968,238,192,110]}
+{"kind":"shape","slide":16,"id":"33","role":"SMTP / mail accent","shapeType":"rect","bbox":[968,238,8,110]}
+{"kind":"shape","slide":16,"id":"34","role":"node title","shapeType":"rect","bbox":[992,258,144,22]}
+{"kind":"textbox","slide":16,"id":"34","role":"node title","text":"SMTP / mail","textChars":11,"textLines":1,"bbox":[992,258,144,22]}
+{"kind":"shape","slide":16,"id":"35","role":"bullet","shapeType":"ellipse","bbox":[992,302,10,10]}
+{"kind":"shape","slide":16,"id":"36","role":"bullet text","shapeType":"rect","bbox":[1016,294,120,28]}
+{"kind":"textbox","slide":16,"id":"36","role":"bullet text","text":"OTP delivery","textChars":12,"textLines":1,"bbox":[1016,294,120,28]}
+{"kind":"shape","slide":16,"id":"37","role":"Razorpay / Twilio / AI / Java panel","shapeType":"roundRect","bbox":[968,372,192,110]}
+{"kind":"shape","slide":16,"id":"38","role":"Razorpay / Twilio / AI / Java accent","shapeType":"rect","bbox":[968,372,8,110]}
+{"kind":"shape","slide":16,"id":"39","role":"node title","shapeType":"rect","bbox":[992,392,144,22]}
+{"kind":"textbox","slide":16,"id":"39","role":"node title","text":"Razorpay / Twilio / AI / Java","textChars":29,"textLines":1,"bbox":[992,392,144,22]}
+{"kind":"shape","slide":16,"id":"40","role":"bullet","shapeType":"ellipse","bbox":[992,436,10,10]}
+{"kind":"shape","slide":16,"id":"41","role":"bullet text","shapeType":"rect","bbox":[1016,428,120,28]}
+{"kind":"textbox","slide":16,"id":"41","role":"bullet text","text":"Payments, notifications, scoring, validation","textChars":44,"textLines":1,"bbox":[1016,428,120,28]}
+{"kind":"shape","slide":16,"id":"42","role":"arrow line","shapeType":"rect","bbox":[266,376,106,4]}
+{"kind":"shape","slide":16,"id":"43","role":"arrow head","shapeType":"rightArrow","bbox":[352,368,20,20]}
+{"kind":"shape","slide":16,"id":"44","role":"arrow line","shapeType":"rect","bbox":[608,376,106,4]}
+{"kind":"shape","slide":16,"id":"45","role":"arrow head","shapeType":"rightArrow","bbox":[694,368,20,20]}
+{"kind":"shape","slide":16,"id":"46","role":"arrow line","shapeType":"rect","bbox":[892,284,76,4]}
+{"kind":"shape","slide":16,"id":"47","role":"arrow head","shapeType":"rightArrow","bbox":[948,276,20,20]}
+{"kind":"shape","slide":16,"id":"48","role":"arrow line","shapeType":"rect","bbox":[892,418,76,4]}
+{"kind":"shape","slide":16,"id":"49","role":"arrow head","shapeType":"rightArrow","bbox":[948,410,20,20]}
+{"kind":"shape","slide":16,"id":"50","role":"deployment note","shapeType":"roundRect","bbox":[226,534,612,70]}
+{"kind":"shape","slide":16,"id":"51","role":"deployment note text","shapeType":"rect","bbox":[254,560,556,18]}
+{"kind":"textbox","slide":16,"id":"51","role":"deployment note text","text":"This diagram shows how the core web application acts as the coordination point between users, storage, and integrations.","textChars":120,"textLines":1,"bbox":[254,560,556,18]}
+{"kind":"shape","slide":17,"id":"2","role":"background","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":17,"id":"3","role":"side rail","shapeType":"rect","bbox":[996,0,284,720]}
+{"kind":"shape","slide":17,"id":"4","role":"side accent","shapeType":"rect","bbox":[968,0,12,720]}
+{"kind":"shape","slide":17,"id":"5","role":"top accent","shapeType":"rect","bbox":[0,0,178,12]}
+{"kind":"shape","slide":17,"id":"6","role":"section label","shapeType":"rect","bbox":[70,38,320,20]}
+{"kind":"textbox","slide":17,"id":"6","role":"section label","text":"DIAGRAMS","textChars":8,"textLines":1,"bbox":[70,38,320,20]}
+{"kind":"shape","slide":17,"id":"7","role":"page label","shapeType":"rect","bbox":[1128,38,80,20]}
+{"kind":"textbox","slide":17,"id":"7","role":"page label","text":"17 / 17","textChars":7,"textLines":1,"bbox":[1128,38,80,20]}
+{"kind":"shape","slide":17,"id":"8","role":"header rule","shapeType":"rect","bbox":[70,66,1140,2]}
+{"kind":"shape","slide":17,"id":"9","role":"footer band","shapeType":"rect","bbox":[0,680,1280,40]}
+{"kind":"shape","slide":17,"id":"10","role":"footer","shapeType":"rect","bbox":[70,693,320,14]}
+{"kind":"textbox","slide":17,"id":"10","role":"footer","text":"EMS2 | Major Project Presentation","textChars":33,"textLines":1,"bbox":[70,693,320,14]}
+{"kind":"shape","slide":17,"id":"11","role":"title","shapeType":"rect","bbox":[70,98,860,78]}
+{"kind":"textbox","slide":17,"id":"11","role":"title","text":"Website Map and Closing Note","textChars":28,"textLines":1,"bbox":[70,98,860,78]}
+{"kind":"shape","slide":17,"id":"12","role":"subtitle","shapeType":"rect","bbox":[70,184,860,52]}
+{"kind":"textbox","slide":17,"id":"12","role":"subtitle","text":"The navigation structure leads users from public discovery pages into authentication, booking, and role-based dashboards.","textChars":121,"textLines":1,"bbox":[70,184,860,52]}
+{"kind":"shape","slide":17,"id":"13","role":"Home panel","shapeType":"roundRect","bbox":[86,300,164,138]}
+{"kind":"shape","slide":17,"id":"14","role":"Home accent","shapeType":"rect","bbox":[86,300,8,138]}
+{"kind":"shape","slide":17,"id":"15","role":"node title","shapeType":"rect","bbox":[110,320,116,22]}
+{"kind":"textbox","slide":17,"id":"15","role":"node title","text":"Home","textChars":4,"textLines":1,"bbox":[110,320,116,22]}
+{"kind":"shape","slide":17,"id":"16","role":"bullet","shapeType":"ellipse","bbox":[110,364,10,10]}
+{"kind":"shape","slide":17,"id":"17","role":"bullet text","shapeType":"rect","bbox":[134,356,92,28]}
+{"kind":"textbox","slide":17,"id":"17","role":"bullet text","text":"Venues","textChars":6,"textLines":1,"bbox":[134,356,92,28]}
+{"kind":"shape","slide":17,"id":"18","role":"bullet","shapeType":"ellipse","bbox":[110,392,10,10]}
+{"kind":"shape","slide":17,"id":"19","role":"bullet text","shapeType":"rect","bbox":[134,384,92,28]}
+{"kind":"textbox","slide":17,"id":"19","role":"bullet text","text":"About","textChars":5,"textLines":1,"bbox":[134,384,92,28]}
+{"kind":"shape","slide":17,"id":"20","role":"bullet","shapeType":"ellipse","bbox":[110,420,10,10]}
+{"kind":"shape","slide":17,"id":"21","role":"bullet text","shapeType":"rect","bbox":[134,412,92,28]}
+{"kind":"textbox","slide":17,"id":"21","role":"bullet text","text":"Contact","textChars":7,"textLines":1,"bbox":[134,412,92,28]}
+{"kind":"shape","slide":17,"id":"22","role":"bullet","shapeType":"ellipse","bbox":[110,448,10,10]}
+{"kind":"shape","slide":17,"id":"23","role":"bullet text","shapeType":"rect","bbox":[134,440,92,28]}
+{"kind":"textbox","slide":17,"id":"23","role":"bullet text","text":"Login","textChars":5,"textLines":1,"bbox":[134,440,92,28]}
+{"kind":"shape","slide":17,"id":"24","role":"bullet","shapeType":"ellipse","bbox":[110,476,10,10]}
+{"kind":"shape","slide":17,"id":"25","role":"bullet text","shapeType":"rect","bbox":[134,468,92,28]}
+{"kind":"textbox","slide":17,"id":"25","role":"bullet text","text":"Register","textChars":8,"textLines":1,"bbox":[134,468,92,28]}
+{"kind":"shape","slide":17,"id":"26","role":"Venues panel","shapeType":"roundRect","bbox":[330,300,164,138]}
+{"kind":"shape","slide":17,"id":"27","role":"Venues accent","shapeType":"rect","bbox":[330,300,8,138]}
+{"kind":"shape","slide":17,"id":"28","role":"node title","shapeType":"rect","bbox":[354,320,116,22]}
+{"kind":"textbox","slide":17,"id":"28","role":"node title","text":"Venues","textChars":6,"textLines":1,"bbox":[354,320,116,22]}
+{"kind":"shape","slide":17,"id":"29","role":"bullet","shapeType":"ellipse","bbox":[354,364,10,10]}
+{"kind":"shape","slide":17,"id":"30","role":"bullet text","shapeType":"rect","bbox":[378,356,92,28]}
+{"kind":"textbox","slide":17,"id":"30","role":"bullet text","text":"Venue detail","textChars":12,"textLines":1,"bbox":[378,356,92,28]}
+{"kind":"shape","slide":17,"id":"31","role":"bullet","shapeType":"ellipse","bbox":[354,392,10,10]}
+{"kind":"shape","slide":17,"id":"32","role":"bullet text","shapeType":"rect","bbox":[378,384,92,28]}
+{"kind":"textbox","slide":17,"id":"32","role":"bullet text","text":"Reviews","textChars":7,"textLines":1,"bbox":[378,384,92,28]}
+{"kind":"shape","slide":17,"id":"33","role":"bullet","shapeType":"ellipse","bbox":[354,420,10,10]}
+{"kind":"shape","slide":17,"id":"34","role":"bullet text","shapeType":"rect","bbox":[378,412,92,28]}
+{"kind":"textbox","slide":17,"id":"34","role":"bullet text","text":"Booking planner","textChars":15,"textLines":1,"bbox":[378,412,92,28]}
+{"kind":"shape","slide":17,"id":"35","role":"Auth panel","shapeType":"roundRect","bbox":[574,300,164,138]}
+{"kind":"shape","slide":17,"id":"36","role":"Auth accent","shapeType":"rect","bbox":[574,300,8,138]}
+{"kind":"shape","slide":17,"id":"37","role":"node title","shapeType":"rect","bbox":[598,320,116,22]}
+{"kind":"textbox","slide":17,"id":"37","role":"node title","text":"Auth","textChars":4,"textLines":1,"bbox":[598,320,116,22]}
+{"kind":"shape","slide":17,"id":"38","role":"bullet","shapeType":"ellipse","bbox":[598,364,10,10]}
+{"kind":"shape","slide":17,"id":"39","role":"bullet text","shapeType":"rect","bbox":[622,356,92,28]}
+{"kind":"textbox","slide":17,"id":"39","role":"bullet text","text":"OTP verification","textChars":16,"textLines":1,"bbox":[622,356,92,28]}
+{"kind":"shape","slide":17,"id":"40","role":"bullet","shapeType":"ellipse","bbox":[598,392,10,10]}
+{"kind":"shape","slide":17,"id":"41","role":"bullet text","shapeType":"rect","bbox":[622,384,92,28]}
+{"kind":"textbox","slide":17,"id":"41","role":"bullet text","text":"Session start","textChars":13,"textLines":1,"bbox":[622,384,92,28]}
+{"kind":"shape","slide":17,"id":"42","role":"Bookings panel","shapeType":"roundRect","bbox":[818,300,164,138]}
+{"kind":"shape","slide":17,"id":"43","role":"Bookings accent","shapeType":"rect","bbox":[818,300,8,138]}
+{"kind":"shape","slide":17,"id":"44","role":"node title","shapeType":"rect","bbox":[842,320,116,22]}
+{"kind":"textbox","slide":17,"id":"44","role":"node title","text":"Bookings","textChars":8,"textLines":1,"bbox":[842,320,116,22]}
+{"kind":"shape","slide":17,"id":"45","role":"bullet","shapeType":"ellipse","bbox":[842,364,10,10]}
+{"kind":"shape","slide":17,"id":"46","role":"bullet text","shapeType":"rect","bbox":[866,356,92,28]}
+{"kind":"textbox","slide":17,"id":"46","role":"bullet text","text":"Checkout","textChars":8,"textLines":1,"bbox":[866,356,92,28]}
+{"kind":"shape","slide":17,"id":"47","role":"bullet","shapeType":"ellipse","bbox":[842,392,10,10]}
+{"kind":"shape","slide":17,"id":"48","role":"bullet text","shapeType":"rect","bbox":[866,384,92,28]}
+{"kind":"textbox","slide":17,"id":"48","role":"bullet text","text":"Success / failure","textChars":17,"textLines":1,"bbox":[866,384,92,28]}
+{"kind":"shape","slide":17,"id":"49","role":"bullet","shapeType":"ellipse","bbox":[842,420,10,10]}
+{"kind":"shape","slide":17,"id":"50","role":"bullet text","shapeType":"rect","bbox":[866,412,92,28]}
+{"kind":"textbox","slide":17,"id":"50","role":"bullet text","text":"My bookings","textChars":11,"textLines":1,"bbox":[866,412,92,28]}
+{"kind":"shape","slide":17,"id":"51","role":"Dashboard panel","shapeType":"roundRect","bbox":[1062,300,164,138]}
+{"kind":"shape","slide":17,"id":"52","role":"Dashboard accent","shapeType":"rect","bbox":[1062,300,8,138]}
+{"kind":"shape","slide":17,"id":"53","role":"node title","shapeType":"rect","bbox":[1086,320,116,22]}
+{"kind":"textbox","slide":17,"id":"53","role":"node title","text":"Dashboard","textChars":9,"textLines":1,"bbox":[1086,320,116,22]}
+{"kind":"shape","slide":17,"id":"54","role":"bullet","shapeType":"ellipse","bbox":[1086,364,10,10]}
+{"kind":"shape","slide":17,"id":"55","role":"bullet text","shapeType":"rect","bbox":[1110,356,92,28]}
+{"kind":"textbox","slide":17,"id":"55","role":"bullet text","text":"Owner operations","textChars":16,"textLines":1,"bbox":[1110,356,92,28]}
+{"kind":"shape","slide":17,"id":"56","role":"bullet","shapeType":"ellipse","bbox":[1086,392,10,10]}
+{"kind":"shape","slide":17,"id":"57","role":"bullet text","shapeType":"rect","bbox":[1110,384,92,28]}
+{"kind":"textbox","slide":17,"id":"57","role":"bullet text","text":"Admin controls","textChars":14,"textLines":1,"bbox":[1110,384,92,28]}
+{"kind":"shape","slide":17,"id":"58","role":"bullet","shapeType":"ellipse","bbox":[1086,420,10,10]}
+{"kind":"shape","slide":17,"id":"59","role":"bullet text","shapeType":"rect","bbox":[1110,412,92,28]}
+{"kind":"textbox","slide":17,"id":"59","role":"bullet text","text":"Review actions","textChars":14,"textLines":1,"bbox":[1110,412,92,28]}
+{"kind":"shape","slide":17,"id":"60","role":"arrow line","shapeType":"rect","bbox":[250,366,80,4]}
+{"kind":"shape","slide":17,"id":"61","role":"arrow head","shapeType":"rightArrow","bbox":[310,358,20,20]}
+{"kind":"shape","slide":17,"id":"62","role":"arrow line","shapeType":"rect","bbox":[494,366,80,4]}
+{"kind":"shape","slide":17,"id":"63","role":"arrow head","shapeType":"rightArrow","bbox":[554,358,20,20]}
+{"kind":"shape","slide":17,"id":"64","role":"arrow line","shapeType":"rect","bbox":[738,366,80,4]}
+{"kind":"shape","slide":17,"id":"65","role":"arrow head","shapeType":"rightArrow","bbox":[798,358,20,20]}
+{"kind":"shape","slide":17,"id":"66","role":"arrow line","shapeType":"rect","bbox":[982,366,80,4]}
+{"kind":"shape","slide":17,"id":"67","role":"arrow head","shapeType":"rightArrow","bbox":[1042,358,20,20]}
+{"kind":"shape","slide":17,"id":"68","role":"closing band","shapeType":"roundRect","bbox":[180,520,730,84]}
+{"kind":"shape","slide":17,"id":"69","role":"closing statement","shapeType":"rect","bbox":[210,550,670,28]}
+{"kind":"textbox","slide":17,"id":"69","role":"closing statement","text":"EMS2 demonstrates a practical major project with real software engineering structure, user-oriented workflow, and strong scope for future enhancement.","textChars":150,"textLines":1,"bbox":[210,550,670,28]}

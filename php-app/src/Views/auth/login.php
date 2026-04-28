@@ -20,7 +20,7 @@
         </form>
 
         <div class="auth-hint mt-8">
-            <strong>Demo accounts:</strong> `admin@vitreon.local`, `owner1@vitreon.local`, or any account you register below.
+            <strong>Demo accounts:</strong> `admin@puneeventhub.local`, `owner1@puneeventhub.local`, `owner2@puneeventhub.local`, or `aarav@puneeventhub.local`.
         </div>
         <a class="hero-link hero-link--secondary mt-6" href="<?= htmlspecialchars($url('register') . ($redirect !== '' ? '?redirect=' . urlencode($redirect) : ''), ENT_QUOTES, 'UTF-8') ?>">Create account</a>
     </article>

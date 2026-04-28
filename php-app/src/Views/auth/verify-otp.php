@@ -47,7 +47,7 @@
 
         <?php if (!empty($demoOtp)): ?>
             <div class="auth-hint mt-8">
-                Development OTP: <strong><?= htmlspecialchars((string) $demoOtp, ENT_QUOTES, 'UTF-8') ?></strong>
+                Demo account OTP: <strong><?= htmlspecialchars((string) $demoOtp, ENT_QUOTES, 'UTF-8') ?></strong>
             </div>
         <?php endif; ?>
     </article>

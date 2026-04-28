@@ -10,6 +10,22 @@ use App\Services\MailOtpService;
 
 final class AuthController extends Controller
 {
+    private const DEMO_EMAILS = [
+        'admin@puneeventhub.local',
+        'owner1@puneeventhub.local',
+        'owner2@puneeventhub.local',
+        'owner3@puneeventhub.local',
+        'owner4@puneeventhub.local',
+        'owner5@puneeventhub.local',
+        'aarav@puneeventhub.local',
+        'siya@puneeventhub.local',
+        'kabir@puneeventhub.local',
+        'admin@vitreon.local',
+        'owner1@vitreon.local',
+        'owner2@vitreon.local',
+        'customer1@vitreon.local',
+    ];
+
     public function showLogin(): void
     {
         $redirect = trim((string) ($_GET['redirect'] ?? ''));
@@ -76,6 +92,7 @@ final class AuthController extends Controller
             'user_id' => (int) $user['id'],
             'identity' => $identity,
             'contact_value' => $contactValue,
+            'is_demo' => str_contains((string) ($user['google_sub'] ?? ''), 'demo'),
         ]);
 
         $this->render('auth/verify-otp', [
@@ -164,7 +181,7 @@ final class AuthController extends Controller
                 'mode' => (string) ($pending['mode'] ?? 'login'),
                 'identity' => (string) (($pending['payload']['contact_value'] ?? $pending['payload']['identity'] ?? $pending['payload']['phone_number'] ?? '')),
                 'otpChannel' => 'email',
-                'demoOtp' => (string) ($pending['otp'] ?? ''),
+                'demoOtp' => $this->shouldShowDemoOtp((array) ($pending['payload'] ?? [])) ? (string) ($pending['otp'] ?? '') : '',
                 'error' => $expired ? 'That OTP has expired. Request a new code.' : 'The OTP you entered is incorrect.',
                 'resendAvailableIn' => 60,
             ]);
@@ -223,19 +240,31 @@ final class AuthController extends Controller
     private function issueOtp(string $mode, array $payload): array
     {
         $otp = (string) random_int(100000, 999999);
+        $showDemoOtp = $this->shouldShowDemoOtp($payload);
         $_SESSION['pending_otp'] = [
             'mode' => $mode,
             'payload' => $payload,
             'otp' => $otp,
             'expires_at' => time() + 300,
+            'show_demo' => $showDemoOtp,
         ];
 
         $delivery = (new MailOtpService())->sendOtp((string) ($payload['contact_value'] ?? ''), $otp);
 
         return [
             'otp' => $otp,
-            'show_demo' => !$delivery['sent'],
+            'show_demo' => $showDemoOtp,
             'message' => $delivery['sent'] ? 'OTP sent successfully.' : $delivery['message'],
         ];
+    }
+
+    private function shouldShowDemoOtp(array $payload): bool
+    {
+        if (($payload['is_demo'] ?? false) === true) {
+            return true;
+        }
+
+        $email = strtolower(trim((string) ($payload['contact_value'] ?? $payload['email'] ?? $payload['identity'] ?? '')));
+        return in_array($email, self::DEMO_EMAILS, true);
     }
 }

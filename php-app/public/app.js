@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const otpResendButton = document.querySelector('[data-otp-resend-button]');
     const otpResendNote = document.querySelector('[data-otp-resend-note]');
     const bookingForm = document.querySelector('[data-booking-form]');
+    const galleryRoot = document.querySelector('[data-venue-gallery]');
 
     if (bookingForm) {
         const bookingDateTimeInput = bookingForm.querySelector('[data-booking-datetime]');
@@ -121,6 +122,72 @@ document.addEventListener('DOMContentLoaded', () => {
                 openAuthModal();
             }
         });
+    }
+
+    if (galleryRoot) {
+        const slides = Array.from(galleryRoot.querySelectorAll('[data-venue-slide]'));
+        const thumbs = Array.from(galleryRoot.querySelectorAll('[data-venue-thumb]'));
+
+        if (slides.length > 0 && thumbs.length > 0) {
+            let slideTimer = null;
+            let isPointerInside = false;
+
+            const activateSlide = (index) => {
+                const nextIndex = Math.max(0, Math.min(index, slides.length - 1));
+                slides.forEach((slide, slideIndex) => {
+                    slide.classList.toggle('is-active', slideIndex === nextIndex);
+                });
+
+                thumbs.forEach((thumb, thumbIndex) => {
+                    thumb.classList.toggle('is-active', thumbIndex === nextIndex);
+                });
+            };
+
+            const startAutoAdvance = () => {
+                if (slides.length < 2 || slideTimer) {
+                    return;
+                }
+
+                slideTimer = window.setInterval(() => {
+                    if (isPointerInside) {
+                        return;
+                    }
+
+                    const activeIndex = slides.findIndex((slide) => slide.classList.contains('is-active'));
+                    activateSlide((activeIndex + 1) % slides.length);
+                }, 4500);
+            };
+
+            thumbs.forEach((thumb) => {
+                thumb.addEventListener('click', () => {
+                    const targetIndex = Number.parseInt(thumb.getAttribute('data-target-index') || '0', 10);
+                    activateSlide(targetIndex);
+                });
+            });
+
+            galleryRoot.addEventListener('mouseenter', () => {
+                isPointerInside = true;
+            });
+
+            galleryRoot.addEventListener('mouseleave', () => {
+                isPointerInside = false;
+            });
+
+            galleryRoot.addEventListener('keydown', (event) => {
+                const activeIndex = slides.findIndex((slide) => slide.classList.contains('is-active'));
+                if (event.key === 'ArrowRight') {
+                    event.preventDefault();
+                    activateSlide((activeIndex + 1) % slides.length);
+                }
+
+                if (event.key === 'ArrowLeft') {
+                    event.preventDefault();
+                    activateSlide((activeIndex - 1 + slides.length) % slides.length);
+                }
+            });
+
+            startAutoAdvance();
+        }
     }
 
     if (!otpForm || !otpHidden || otpInputs.length === 0) {

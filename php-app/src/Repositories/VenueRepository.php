@@ -327,6 +327,27 @@ SQL;
         return $statement->fetchAll() ?: [];
     }
 
+    public function createReview(int $venueId, int $userId, int $rating, string $reviewText): void
+    {
+        $statement = $this->pdo->prepare(
+            'INSERT INTO reviews (venue_id, user_id, rating, review_text, ai_sentiment_score)
+             VALUES (:venue_id, :user_id, :rating, :review_text, :ai_sentiment_score)'
+        );
+        $statement->execute([
+            'venue_id' => $venueId,
+            'user_id' => $userId,
+            'rating' => $rating,
+            'review_text' => $reviewText,
+            'ai_sentiment_score' => match (true) {
+                $rating >= 5 => 0.95,
+                $rating === 4 => 0.82,
+                $rating === 3 => 0.62,
+                $rating === 2 => 0.38,
+                default => 0.2,
+            },
+        ]);
+    }
+
     private function baseQuery(): string
     {
         return <<<SQL

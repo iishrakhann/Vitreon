@@ -25,7 +25,7 @@ $redirect = trim((string) ($redirect ?? ''));
             </label>
             <label class="planner-field">
                 <span>Phone number</span>
-                <input type="tel" name="phone_number" value="<?= htmlspecialchars((string) ($form['phoneNumber'] ?? ''), ENT_QUOTES, 'UTF-8') ?>" inputmode="numeric" pattern="[6-9][0-9]{9}" maxlength="10" minlength="10" placeholder="10-digit Indian mobile number" required>
+                <input type="tel" name="phone_number" value="<?= htmlspecialchars((string) ($form['phoneNumber'] ?? ''), ENT_QUOTES, 'UTF-8') ?>" inputmode="numeric" pattern="[6-9][0-9]{9}" maxlength="10" minlength="10" required>
             </label>
             <label class="planner-field">
                 <span>Register as</span>
@@ -34,7 +34,7 @@ $redirect = trim((string) ($redirect ?? ''));
                     <option value="OWNER" <?= (($form['role'] ?? '') === 'OWNER') ? 'selected' : '' ?>>Owner</option>
                 </select>
             </label>
-            <button type="submit" class="hero-link planner-submit">Generate OTP</button>
+            <button type="submit" class="hero-link planner-submit">Send OTP</button>
         </form>
         <a class="hero-link hero-link--secondary mt-6" href="<?= htmlspecialchars($url('login') . ($redirect !== '' ? '?redirect=' . urlencode($redirect) : ''), ENT_QUOTES, 'UTF-8') ?>">Already have an account?</a>
     </article>

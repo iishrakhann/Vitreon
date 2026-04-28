@@ -10,6 +10,7 @@ return [
     ['GET', '/', [HomeController::class, 'index']],
     ['GET', '/venues', [HomeController::class, 'venues']],
     ['GET', '/venues/{slug}', [HomeController::class, 'showVenue']],
+    ['POST', '/venues/{slug}/reviews', [HomeController::class, 'submitReview']],
     ['GET', '/about', [HomeController::class, 'about']],
     ['GET', '/contact', [HomeController::class, 'contact']],
     ['GET', '/bookings', [BookingsController::class, 'index']],
